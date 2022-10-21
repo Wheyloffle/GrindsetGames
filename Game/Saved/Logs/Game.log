@@ -2256,3 +2256,87 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.21-00.21.50:726][550]LogContentValidation: Display: Validating Blueprint /Game/Lava.Lava
 [2022.10.21-00.21.51:650][661]BlueprintLog: New page: Compile Lava
 [2022.10.21-00.21.51:716][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.21-00.24.54:374][530]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::EqualEqual_ObjectObject' [Element not found.]
+[2022.10.21-00.25.53:287][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.21-00.25.53:290][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HV/54PWU3N01P8E1A6A7MCVAM_Auto2
+[2022.10.21-00.25.53:290][451]LogSavePackage: Moving '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/54PWU3N01P8E1A6A7MCVAM_Auto25F87750D450B8CFE4F70238FFEA3143C.tmp' to '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HV/54PWU3N01P8E1A6A7MCVAM_Auto2.uasset'
+[2022.10.21-00.25.53:291][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2022.10.21-00.25.53:291][451]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.10.21-00.25.53:291][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Lava] ([2] browsable assets)...
+[2022.10.21-00.25.53:329][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Lava.Lava]
+[2022.10.21-00.25.53:329][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lava]
+[2022.10.21-00.25.53:329][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lava" FILE="../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/Autosaves/Game/Lava_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.21-00.25.53:334][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Lava_Auto2
+[2022.10.21-00.25.53:334][451]LogSavePackage: Moving '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/Lava_Auto24E34A82F4317D808F976509E362F1277.tmp' to '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/Autosaves/Game/Lava_Auto2.uasset'
+[2022.10.21-00.25.53:335][451]LogFileHelpers: Auto-saving content packages took 0.044
+[2022.10.21-00.29.52:064][712]BlueprintLog: New page: Compile Lava
+[2022.10.21-00.29.52:128][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.21-00.29.52:188][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lava" FILE="../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Content/Lava.uasset" SILENT=true
+[2022.10.21-00.29.52:194][712]LogSavePackage: Moving output files for package: /Game/Lava
+[2022.10.21-00.29.52:194][712]LogSavePackage: Moving '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Saved/LavaC359A5254BE7837BCD2CD2BE8A80A152.tmp' to '../../../../../../Users/u1445616/Documents/GitHub/GrindsetGames/Game/Content/Lava.uasset'
+[2022.10.21-00.29.52:209][712]AssetCheck: New page: Asset Save: Lava
+[2022.10.21-00.29.52:209][712]LogContentValidation: Display: Validating Blueprint /Game/Lava.Lava
+[2022.10.21-00.29.55:081][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.21-00.29.55:086][ 26]LogWorldPartition: Display: GetPartitionedActors took 46 us
+[2022.10.21-00.29.55:087][ 26]LogWorldPartition: Display: GenerateStreaming took 249 us
+[2022.10.21-00.29.55:087][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.21-00.29.55:087][ 26]PIE: New page: PIE session: ThirdPersonMap (Oct 20, 2022, 12:29:55 PM)
+[2022.10.21-00.29.55:119][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.21-00.29.55:122][ 26]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.21-00.29.55:123][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003638s)
+[2022.10.21-00.29.55:123][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003711s)
+[2022.10.21-00.29.55:123][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.21-00.29.55:123][ 26]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.21-00.29.55:123][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.21-00.29.55:124][ 26]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.21-00.29.55:124][ 26]LogWorldPartition: Display: WorldPartition initialize took 829 us
+[2022.10.21-00.29.55:124][ 26]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2022.10.21-00.29.55:167][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.21-00.29.55:168][ 26]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.21-00.29.55:168][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.21-00.29.55:168][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.21-00.29.55:168][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.21-00.29.55:168][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.21-00.29.55:168][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.21-00.29.55:171][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.21-00.29.55:202][ 26]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2022.10.21-00.29.55:203][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.21-00.29.55:203][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.21-00.29.55:203][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.21-00.29.55:204][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.10.21-00.29.55:204][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.10.21-00.29.55:205][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.10.21-00.29.55:205][ 26]LogInit: FAudioDevice initialized.
+[2022.10.21-00.29.55:205][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.10.21-00.29.55:205][ 26]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2022.10.21-00.29.55:213][ 26]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.21-00.29.55:214][ 26]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.10.20-18.29.55
+[2022.10.21-00.29.55:215][ 26]LogWorld: Bringing up level for play took: 0.001300
+[2022.10.21-00.29.55:216][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.10.21-00.29.55:218][ 26]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.21-00.29.55:218][ 26]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.21-00.29.55:219][ 26]PIE: Server logged in
+[2022.10.21-00.29.55:219][ 26]PIE: Play in editor total start time 0.134 seconds.
+[2022.10.21-00.30.10:969][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-00.30.10:970][884]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.21-00.30.10:970][884]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.21-00.30.10:970][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-00.30.10:983][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.21-00.30.10:989][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.21-00.30.11:031][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.21-00.30.11:031][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.21-00.30.11:032][884]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.21-00.30.11:035][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.21-00.30.11:038][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.21-00.30.11:076][885]LogPlayLevel: Display: Destroying online subsystem :Context_14
