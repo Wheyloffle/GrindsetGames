@@ -824,3 +824,103 @@ Recommended: 516.25
 [2022.10.22-14.26.27:862][943]LogSlate: Window 'Message Log' being destroyed
 [2022.10.22-14.26.27:884][943]LogSlate: Window 'Message Log' being destroyed
 [2022.10.22-14.26.57:289][157]LogDerivedDataCache: C:/Users/Nenmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.261 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-14.28.07:968][987]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-14.28.07:980][987]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-14.28.07:988][988]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-14.28.10:147][119]LogContentBrowser: Attempting asset rename: NewFolder -> Hud
+[2022.10.22-14.28.10:148][119]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-14.28.15:882][463]LogContentBrowser: Attempting asset rename: Hud -> UI
+[2022.10.22-14.28.19:501][675]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-14.28.19:514][675]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-14.28.19:531][677]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-14.28.21:481][795]LogContentBrowser: Attempting asset rename: NewFolder -> Hud
+[2022.10.22-14.28.21:481][795]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-14.32.18:486][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.22-14.32.18:556][854]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/GameMap.GameMap
+[2022.10.22-14.32.18:556][854]Cmd: MAP LOAD FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/GameMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-14.32.18:556][854]LightingResults: New page: Lighting Build
+[2022.10.22-14.32.18:556][854]LoadErrors: New page: Loading map: GameMap.umap
+[2022.10.22-14.32.18:605][854]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.32.18:605][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.32.18:605][854]MapCheck: New page: Map Check
+[2022.10.22-14.32.18:605][854]LightingResults: New page: Lighting Build
+[2022.10.22-14.32.18:612][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-14.32.18:614][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.22-14.32.18:615][854]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.32.18:616][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.32.18:625][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.22-14.32.18:632][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.22-14.32.18:642][854]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameMap'.
+[2022.10.22-14.32.18:642][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-14.32.18:643][854]LogAIModule: Creating AISystem for world GameMap
+[2022.10.22-14.32.18:644][854]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.22-14.32.18:644][854]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.22-14.32.18:654][854]LogWorldPartition: Display: WorldPartition initialize took 10 ms
+[2022.10.22-14.32.18:758][854]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-14.32.18:768][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.22-14.32.18:775][854]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-14.32.18:775][854]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.204ms to complete.
+[2022.10.22-14.32.18:775][854]LogFileHelpers: Loading map 'GameMap' took 0.219
+[2022.10.22-14.32.20:333][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.10.22-14.32.20:342][944]LogWorldPartition: Display: GenerateStreaming took 184 us
+[2022.10.22-14.32.20:342][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.32.20:343][944]PIE: New page: PIE session: GameMap (Oct 22, 2022, 2:32:20 AM)
+[2022.10.22-14.32.20:343][944]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameMap
+[2022.10.22-14.32.20:346][944]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.22-14.32.20:346][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003358s)
+[2022.10.22-14.32.20:346][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameMap.GameMap to /Game/Levels/UEDPIE_0_GameMap.GameMap (0.003427s)
+[2022.10.22-14.32.20:346][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-14.32.20:347][944]LogAIModule: Creating AISystem for world GameMap
+[2022.10.22-14.32.20:347][944]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.22-14.32.20:347][944]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.22-14.32.20:348][944]LogWorldPartition: Display: WorldPartition initialize took 843 us
+[2022.10.22-14.32.20:348][944]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2022.10.22-14.32.20:356][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.22-14.32.20:356][944]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.22-14.32.20:356][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.32.20:356][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.32.20:357][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.32.20:357][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.32.20:357][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.32.20:357][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-14.32.20:357][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.32.20:357][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.32.20:357][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.32.20:357][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.32.20:357][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.32.20:359][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-14.32.20:399][944]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-14.32.20:399][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.32.20:399][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.32.20:400][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.32.20:401][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.22-14.32.20:401][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.22-14.32.20:403][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.22-14.32.20:403][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.22-14.32.20:403][944]LogInit: FAudioDevice initialized.
+[2022.10.22-14.32.20:403][944]LogAudio: Display: Audio Device (ID: 3) registered with world 'GameMap'.
+[2022.10.22-14.32.20:418][944]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-14.32.20:419][944]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.10.22-08.32.20
+[2022.10.22-14.32.20:419][944]LogWorld: Bringing up level for play took: 0.000952
+[2022.10.22-14.32.20:421][944]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.10.22-14.32.20:423][944]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3030.000 Y=3700.000 Z=98.212
+[2022.10.22-14.32.20:423][944]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.22-14.32.20:424][944]PIE: Server logged in
+[2022.10.22-14.32.20:424][944]PIE: Play in editor total start time 0.083 seconds.
+[2022.10.22-14.32.28:433][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.32.28:433][419]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_GameMap
+[2022.10.22-14.32.28:434][419]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.32.28:434][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.32.28:448][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.32.28:450][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.32.28:458][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.32.28:458][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.22-14.32.28:460][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.22-14.32.28:466][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.22-14.32.28:550][422]LogPlayLevel: Display: Destroying online subsystem :Context_3
