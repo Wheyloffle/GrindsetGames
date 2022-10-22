@@ -1892,3 +1892,1422 @@ TaskGetPatrolLocation_C.ReceiveExecuteAI
 [2022.10.22-19.27.41:193][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.22-19.27.41:200][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
 [2022.10.22-19.27.41:257][258]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.22-19.30.02:001][403]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.30.02:003][403]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_ThiefCB9A1359438FC85DD807E49EF661065C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.30.02:031][403]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.30.02:031][403]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.33.12:219][989]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.33.12:221][989]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief1EACA5EF4F94E504D901EB9338D294CD.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.33.12:252][989]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.33.12:252][989]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.34.41:902][985]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-19.35.16:240][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.10.22-19.35.16:245][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototyping/PumpkinTesting' took 0.070
+[2022.10.22-19.35.16:245][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameObjects/Thief/ThiefBlackBoard] ([1] browsable assets)...
+[2022.10.22-19.35.16:246][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Thief/ThiefBlackBoard]
+[2022.10.22-19.35.16:247][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameObjects/Thief/ThiefBlackBoard_Auto2
+[2022.10.22-19.35.16:247][635]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard_Auto22CD3522E4B71D6F62DDA29B577E957C3.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/GameObjects/Thief/ThiefBlackBoard_Auto2.uasset'
+[2022.10.22-19.35.16:249][635]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.10.22-19.35.29:187][103]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-19.35.29:189][103]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard46F77B574E28C984E9A8BA8A8F8D26E6.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-19.35.29:221][103]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-19.35.29:221][103]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-19.35.37:971][603]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.35.37:972][603]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief1F369ACF4DB7C5C5C6EDBCB2F85FCE2D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.35.38:001][603]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.35.38:001][603]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.37.11:671][133]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.37.11:672][133]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerFE17EC754BB387E696A4B89DC1C47C99.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.37.11:705][133]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.37.11:705][133]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.37.26:740][567]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.37.26:742][567]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerEB2602B8434A282D9920299AFE325AB5.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.37.26:773][567]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.37.26:773][567]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.37.36:564][663]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-19.37.36:648][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.22-19.37.37:206][691]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.37.37:208][691]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController4868FC6E44BFFD06E727D5BB6C2074A6.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.37.37:237][691]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.37.37:237][691]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.37.37:726][719]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.37.37:727][719]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerAC91665841319128F664F68828E51461.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.37.37:753][719]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.37.37:753][719]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.40.08:898][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-19.40.08:898][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.40.14:660][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-19.40.16:573][134]LogViewport: Scene viewport resized to 1103x917, mode Windowed.
+[2022.10.22-19.40.34:244][684]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-19.40.35:922][726]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-19.40.37:815][839]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-19.40.46:761][936]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-19.40.46:763][936]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin2BCE7BC9465D69C0ED0AC9AA5AFB7DC3.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-19.40.46:783][936]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-19.40.46:783][936]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-19.40.47:311][971]BlueprintLog: New page: Compile Pumpkin
+[2022.10.22-19.40.47:416][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.22-19.40.47:503][972]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-19.40.47:940][995]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-19.40.47:942][995]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinADD798E24EAFC1321426A48F97949D9E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-19.40.47:958][995]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-19.40.47:958][995]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-19.40.51:890][222]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.40.51:891][222]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief213F70A1426676C018728489836A7C38.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.40.51:921][222]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.40.51:921][222]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.44.02:777][664]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.44.02:778][664]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief738438ED420E6030C16299BA3C57847C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.44.02:809][664]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.44.02:809][664]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.45.39:349][793]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.45.39:350][793]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerA75BFE354FF53B7499E12DBA7097255F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.45.39:375][793]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.45.39:375][793]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.45.40:836][884]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-19.45.40:927][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.22-19.45.41:647][924]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-19.45.41:649][924]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController332C7F544BF155A00FE6238261F806B7.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-19.45.41:675][924]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-19.45.41:675][924]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-19.46.33:113][112]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.46.33:114][112]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief2436BF91451646D0B17C03B6DB74B721.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.46.33:143][112]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.46.33:143][112]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.46.52:379][349]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-19.46.52:392][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-19.46.52:392][349]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 7:46:52 AM)
+[2022.10.22-19.46.52:392][349]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.46.52:422][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030209s)
+[2022.10.22-19.46.52:423][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030342s)
+[2022.10.22-19.46.52:423][349]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-19.46.52:423][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.46.52:423][349]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-19.46.52:424][349]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2022.10.22-19.46.52:484][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.22-19.46.52:486][349]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-19.46.52:486][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-19.46.52:486][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-19.46.52:487][349]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-19.46.52:487][349]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-19.46.52:487][349]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-19.46.52:490][349]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-19.46.52:529][349]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-19.46.52:530][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-19.46.52:530][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-19.46.52:530][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-19.46.52:531][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.10.22-19.46.52:531][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.10.22-19.46.52:533][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.10.22-19.46.52:533][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.10.22-19.46.52:533][349]LogInit: FAudioDevice initialized.
+[2022.10.22-19.46.52:533][349]LogAudio: Display: Audio Device (ID: 9) registered with world 'PumpkinTesting'.
+[2022.10.22-19.46.52:547][349]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-19.46.52:564][349]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-13.46.52
+[2022.10.22-19.46.52:578][349]LogWorld: Bringing up level for play took: 0.030405
+[2022.10.22-19.46.52:580][349]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.10.22-19.46.52:596][349]PIE: Server logged in
+[2022.10.22-19.46.52:597][349]PIE: Play in editor total start time 0.209 seconds.
+[2022.10.22-19.46.53:396][381]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-19.47.07:967][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.47.07:967][239]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.47.07:968][239]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-19.47.07:969][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.47.07:988][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-19.47.07:997][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.47.08:056][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-19.47.08:057][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.22-19.47.08:059][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.22-19.47.08:063][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.47.08:070][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.22-19.47.08:126][240]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.22-19.47.58:050][226]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-19.47.58:061][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-19.47.58:061][226]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 7:47:58 AM)
+[2022.10.22-19.47.58:061][226]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.47.58:092][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030371s)
+[2022.10.22-19.47.58:092][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030494s)
+[2022.10.22-19.47.58:092][226]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-19.47.58:092][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.47.58:092][226]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-19.47.58:093][226]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.10.22-19.47.58:155][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.10.22-19.47.58:158][226]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-19.47.58:158][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-19.47.58:158][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-19.47.58:158][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-19.47.58:158][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-19.47.58:158][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-19.47.58:161][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-19.47.58:201][226]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-19.47.58:201][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-19.47.58:201][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-19.47.58:201][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-19.47.58:202][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.10.22-19.47.58:202][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.10.22-19.47.58:204][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.10.22-19.47.58:204][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.10.22-19.47.58:204][226]LogInit: FAudioDevice initialized.
+[2022.10.22-19.47.58:204][226]LogAudio: Display: Audio Device (ID: 10) registered with world 'PumpkinTesting'.
+[2022.10.22-19.47.58:219][226]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-19.47.58:236][226]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-13.47.58
+[2022.10.22-19.47.58:239][226]LogWorld: Bringing up level for play took: 0.019573
+[2022.10.22-19.47.58:241][226]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.10.22-19.47.58:245][226]PIE: Server logged in
+[2022.10.22-19.47.58:246][226]PIE: Play in editor total start time 0.188 seconds.
+[2022.10.22-19.47.59:060][267]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-19.48.14:806][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.48.14:806][210]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.48.14:807][210]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-19.48.14:808][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.48.14:830][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-19.48.14:838][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.48.14:899][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-19.48.14:899][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.10.22-19.48.14:901][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.10.22-19.48.14:905][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.48.14:911][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.22-19.48.14:968][211]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.10.22-19.49.00:683][907]BlueprintLog: New page: Compile BP_Thief
+[2022.10.22-19.49.00:686][907]LogBlueprint: Warning: [AssetLog] H:\Nenmar\Documents\Projects\Code\GitHub\GrindsetGames\PumpkinDispatcher\Content\GameObjects\Thief\BP_Thief.uasset: [Compiler] 'Pumpkin' does not inherit from 'Pawn' ( Cast To Pumpkin  would always fail).
+[2022.10.22-19.49.00:811][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.22-19.49.01:355][931]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BP_Thief
+[2022.10.22-19.49.01:357][931]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BP_Thief96EE9A19443858FD999B90AA42ADA412.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BP_Thief.uasset'
+[2022.10.22-19.49.01:375][931]AssetCheck: New page: Asset Save: BP_Thief
+[2022.10.22-19.49.01:375][931]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/BP_Thief.BP_Thief
+[2022.10.22-19.49.04:867][144]BlueprintLog: New page: Compile BP_Thief
+[2022.10.22-19.49.04:997][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.22-19.49.05:123][144]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BP_Thief
+[2022.10.22-19.49.05:125][144]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BP_Thief897DAD914DA5C6887C30BD8C9681C6E2.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BP_Thief.uasset'
+[2022.10.22-19.49.05:142][144]AssetCheck: New page: Asset Save: BP_Thief
+[2022.10.22-19.49.05:143][144]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/BP_Thief.BP_Thief
+[2022.10.22-19.49.05:600][169]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BP_Thief
+[2022.10.22-19.49.05:602][169]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BP_Thief4EBA62B54356375DE82E30A916D939A4.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BP_Thief.uasset'
+[2022.10.22-19.49.05:629][169]AssetCheck: New page: Asset Save: BP_Thief
+[2022.10.22-19.49.05:629][169]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/BP_Thief.BP_Thief
+[2022.10.22-19.50.00:048][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.22-19.50.00:140][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting_Auto3
+[2022.10.22-19.50.00:140][ 31]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTesting_Auto30C3B34E0473DED9F16E1ED9A6B4EA839.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting_Auto3.umap'
+[2022.10.22-19.50.00:145][ 31]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting_Auto3.
+[2022.10.22-19.50.00:147][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototyping/PumpkinTesting' took 0.164
+[2022.10.22-19.50.00:147][ 31]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2022.10.22-19.50.59:631][501]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-19.50.59:631][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.51.07:446][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObjects/Thief/BP_Thief.BP_Thief
+[2022.10.22-19.51.07:446][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.51.12:431][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.22-19.51.12:517][162]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototyping/PumpkinTesting
+[2022.10.22-19.51.12:519][162]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTestingFAB7046A4FE3F4B89686D0A5DC7066FB.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/LevelPrototyping/PumpkinTesting.umap'
+[2022.10.22-19.51.12:549][162]AssetCheck: New page: Asset Save: PumpkinTesting
+[2022.10.22-19.51.12:549][162]LogContentValidation: Display: Validating World /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting
+[2022.10.22-19.51.30:059][190]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-19.51.33:934][419]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-19.51.33:936][419]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard4367109B4EC9DD8C32851AA0C47D37D5.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-19.51.33:966][419]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-19.51.33:966][419]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-19.51.36:865][585]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-19.51.36:877][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-19.51.36:877][585]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 7:51:36 AM)
+[2022.10.22-19.51.36:910][585]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.51.36:940][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029507s)
+[2022.10.22-19.51.36:940][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029687s)
+[2022.10.22-19.51.36:940][585]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-19.51.36:940][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.51.36:940][585]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-19.51.36:941][585]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2022.10.22-19.51.37:002][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.22-19.51.37:003][585]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-19.51.37:003][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-19.51.37:003][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-19.51.37:004][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-19.51.37:004][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-19.51.37:004][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-19.51.37:007][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-19.51.37:046][585]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-19.51.37:046][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-19.51.37:046][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-19.51.37:046][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-19.51.37:047][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.10.22-19.51.37:047][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.10.22-19.51.37:049][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.10.22-19.51.37:049][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.10.22-19.51.37:049][585]LogInit: FAudioDevice initialized.
+[2022.10.22-19.51.37:049][585]LogAudio: Display: Audio Device (ID: 11) registered with world 'PumpkinTesting'.
+[2022.10.22-19.51.37:062][585]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-19.51.37:077][585]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-13.51.37
+[2022.10.22-19.51.37:081][585]LogWorld: Bringing up level for play took: 0.018716
+[2022.10.22-19.51.37:083][585]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.10.22-19.51.37:088][585]PIE: Server logged in
+[2022.10.22-19.51.37:089][585]PIE: Play in editor total start time 0.216 seconds.
+[2022.10.22-19.51.37:868][624]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-19.51.43:494][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.51.43:495][959]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.51.43:495][959]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-19.51.43:497][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.51.43:515][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-19.51.43:524][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.51.43:582][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-19.51.43:584][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.22-19.51.43:586][959]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.22-19.51.43:592][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.51.43:598][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.22-19.51.43:652][960]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.10.22-19.54.06:359][233]Cmd: TRANSACTION UNDO
+[2022.10.22-19.54.06:368][233]LogEditorTransaction: Undo Add Node
+[2022.10.22-19.54.37:952][ 80]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-19.54.37:953][ 80]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_ThiefC317A6874CD017D72672279F6EA8EBCF.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-19.54.37:984][ 80]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-19.54.37:984][ 80]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-19.54.40:106][202]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-19.54.40:118][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-19.54.40:118][202]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 7:54:40 AM)
+[2022.10.22-19.54.40:118][202]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.54.40:148][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029610s)
+[2022.10.22-19.54.40:148][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029734s)
+[2022.10.22-19.54.40:148][202]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-19.54.40:148][202]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.54.40:148][202]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-19.54.40:149][202]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2022.10.22-19.54.40:213][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.22-19.54.40:215][202]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-19.54.40:215][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-19.54.40:215][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-19.54.40:216][202]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-19.54.40:216][202]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-19.54.40:216][202]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-19.54.40:218][202]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-19.54.40:257][202]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-19.54.40:257][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-19.54.40:257][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-19.54.40:257][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-19.54.40:258][202]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.10.22-19.54.40:258][202]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.10.22-19.54.40:260][202]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.10.22-19.54.40:260][202]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.10.22-19.54.40:260][202]LogInit: FAudioDevice initialized.
+[2022.10.22-19.54.40:261][202]LogAudio: Display: Audio Device (ID: 12) registered with world 'PumpkinTesting'.
+[2022.10.22-19.54.40:278][202]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-19.54.40:294][202]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-13.54.40
+[2022.10.22-19.54.40:297][202]LogWorld: Bringing up level for play took: 0.018441
+[2022.10.22-19.54.40:300][202]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.10.22-19.54.40:305][202]PIE: Server logged in
+[2022.10.22-19.54.40:305][202]PIE: Play in editor total start time 0.192 seconds.
+[2022.10.22-19.54.46:134][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.54.46:134][542]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-19.54.46:135][542]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-19.54.46:137][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.54.46:155][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-19.54.46:164][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-19.54.46:224][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-19.54.46:224][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.22-19.54.46:226][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.22-19.54.46:231][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-19.54.46:238][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.22-19.54.46:294][543]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.10.22-19.54.54:957][ 63]Cmd: TRANSACTION UNDO
+[2022.10.22-19.54.54:957][ 63]LogEditorTransaction: Undo Edit Key Query
+[2022.10.22-19.55.41:515][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.22-19.55.41:515][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-19.56.04:352][139]LogDerivedDataCache: C:/Users/Nenmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.178 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-20.00.38:026][661]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-20.00.38:027][661]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_ThiefA20C86D644274E9613B5EE849CE8431E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-20.00.38:054][661]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-20.00.38:054][661]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-20.00.40:870][831]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.00.40:881][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.00.40:881][831]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:00:40 AM)
+[2022.10.22-20.00.40:881][831]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.00.40:911][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029370s)
+[2022.10.22-20.00.40:911][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029496s)
+[2022.10.22-20.00.40:911][831]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.00.40:911][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.00.40:912][831]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.00.40:912][831]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2022.10.22-20.00.40:981][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.22-20.00.40:982][831]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.10.22-20.00.40:982][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.00.40:982][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.00.40:982][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.00.40:982][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.00.40:983][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.00.40:983][831]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.00.40:983][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.00.40:983][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.00.40:983][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.00.40:983][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.00.40:983][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.00.40:986][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.00.41:026][831]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.00.41:026][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.00.41:026][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.00.41:026][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.00.41:027][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.10.22-20.00.41:027][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.10.22-20.00.41:029][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.10.22-20.00.41:029][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.10.22-20.00.41:029][831]LogInit: FAudioDevice initialized.
+[2022.10.22-20.00.41:029][831]LogAudio: Display: Audio Device (ID: 13) registered with world 'PumpkinTesting'.
+[2022.10.22-20.00.41:046][831]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.00.41:063][831]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.00.41
+[2022.10.22-20.00.41:065][831]LogWorld: Bringing up level for play took: 0.019046
+[2022.10.22-20.00.41:068][831]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.10.22-20.00.41:072][831]PIE: Server logged in
+[2022.10.22-20.00.41:073][831]PIE: Play in editor total start time 0.195 seconds.
+[2022.10.22-20.00.41:874][871]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.00.47:709][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.00.47:710][219]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.00.47:710][219]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.00.47:711][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.00.47:727][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.00.47:736][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.00.47:800][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.00.47:802][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.10.22-20.00.47:803][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.10.22-20.00.47:808][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.00.47:814][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.22-20.00.47:869][220]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.22-20.18.50:445][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.18.50:459][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.18.50:459][882]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:18:50 AM)
+[2022.10.22-20.18.50:499][882]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.18.50:529][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029629s)
+[2022.10.22-20.18.50:529][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029798s)
+[2022.10.22-20.18.50:529][882]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.18.50:529][882]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.18.50:530][882]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.18.50:530][882]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2022.10.22-20.18.50:602][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.22-20.18.50:605][882]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.18.50:605][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.18.50:605][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.18.50:605][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.18.50:605][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.18.50:605][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.18.50:608][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.18.50:648][882]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.18.50:648][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.18.50:648][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.18.50:648][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.18.50:649][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.10.22-20.18.50:650][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.10.22-20.18.50:652][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.10.22-20.18.50:652][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.10.22-20.18.50:652][882]LogInit: FAudioDevice initialized.
+[2022.10.22-20.18.50:652][882]LogAudio: Display: Audio Device (ID: 14) registered with world 'PumpkinTesting'.
+[2022.10.22-20.18.50:664][882]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.18.50:680][882]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.18.50
+[2022.10.22-20.18.50:683][882]LogWorld: Bringing up level for play took: 0.019275
+[2022.10.22-20.18.50:686][882]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.10.22-20.18.50:689][882]PIE: Server logged in
+[2022.10.22-20.18.50:690][882]PIE: Play in editor total start time 0.236 seconds.
+[2022.10.22-20.18.51:455][920]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.18.58:317][332]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.19.00:492][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.19.00:492][460]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.19.00:492][460]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.19.00:494][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.19.00:513][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.19.00:521][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.19.00:586][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.19.00:587][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.10.22-20.19.00:588][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.10.22-20.19.00:600][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.22-20.19.00:644][461]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.22-20.20.10:142][526]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-20.20.10:144][526]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief840A2BFF40595AB635A7689FD0892177.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-20.20.10:170][526]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-20.20.10:170][526]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-20.20.13:618][729]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.20.13:630][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.20.13:630][729]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:20:13 AM)
+[2022.10.22-20.20.13:630][729]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.20.13:661][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030469s)
+[2022.10.22-20.20.13:661][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030594s)
+[2022.10.22-20.20.13:661][729]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.20.13:661][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.20.13:661][729]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.20.13:662][729]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2022.10.22-20.20.13:732][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.22-20.20.13:733][729]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.20.13:734][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.20.13:734][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.20.13:734][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.20.13:734][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.20.13:734][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.20.13:737][729]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.20.13:777][729]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.20.13:777][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.20.13:777][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.20.13:778][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.20.13:779][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.10.22-20.20.13:779][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.10.22-20.20.13:781][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.10.22-20.20.13:781][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.10.22-20.20.13:781][729]LogInit: FAudioDevice initialized.
+[2022.10.22-20.20.13:781][729]LogAudio: Display: Audio Device (ID: 15) registered with world 'PumpkinTesting'.
+[2022.10.22-20.20.13:799][729]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.20.13:816][729]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.20.13
+[2022.10.22-20.20.13:819][729]LogWorld: Bringing up level for play took: 0.019450
+[2022.10.22-20.20.13:821][729]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.10.22-20.20.13:825][729]PIE: Server logged in
+[2022.10.22-20.20.13:826][729]PIE: Play in editor total start time 0.2 seconds.
+[2022.10.22-20.20.23:316][291]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.20.26:549][485]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.20.30:383][715]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.20.39:002][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.20.39:002][230]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.20.39:003][230]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.20.39:005][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.20.39:024][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.20.39:033][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.20.39:102][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.20.39:102][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.10.22-20.20.39:104][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.10.22-20.20.39:109][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.20.39:115][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.22-20.20.39:157][231]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.22-20.21.34:782][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.21.34:793][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.21.34:794][824]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:21:34 AM)
+[2022.10.22-20.21.34:794][824]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.21.34:824][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030306s)
+[2022.10.22-20.21.34:824][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030437s)
+[2022.10.22-20.21.34:824][824]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.21.34:825][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.21.34:825][824]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.21.34:825][824]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.10.22-20.21.34:894][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.22-20.21.34:896][824]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.21.34:896][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.21.34:896][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.21.34:897][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.21.34:897][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.21.34:897][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.21.34:899][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.21.34:939][824]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.21.34:939][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.21.34:939][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.21.34:939][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.21.34:940][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.10.22-20.21.34:940][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.10.22-20.21.34:942][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.10.22-20.21.34:942][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.10.22-20.21.34:943][824]LogInit: FAudioDevice initialized.
+[2022.10.22-20.21.34:943][824]LogAudio: Display: Audio Device (ID: 16) registered with world 'PumpkinTesting'.
+[2022.10.22-20.21.34:959][824]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.21.34:975][824]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.21.34
+[2022.10.22-20.21.34:978][824]LogWorld: Bringing up level for play took: 0.019572
+[2022.10.22-20.21.34:981][824]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.10.22-20.21.34:985][824]PIE: Server logged in
+[2022.10.22-20.21.34:986][824]PIE: Play in editor total start time 0.196 seconds.
+[2022.10.22-20.21.46:685][518]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.21.52:784][884]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.21.56:432][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.21.56:432][101]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.21.56:432][101]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.21.56:434][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.21.56:457][101]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.21.56:466][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.21.56:534][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.21.56:534][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.10.22-20.21.56:536][101]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.10.22-20.21.56:546][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.22-20.21.56:589][102]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.10.22-20.23.27:049][951]LogSlate: Window 'Plugins' being destroyed
+[2022.10.22-20.23.27:070][951]LogSlate: Window 'Plugins' being destroyed
+[2022.10.22-20.23.27:070][951]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.10.22-20.24.59:765][773]LogSlate: Window 'Save Asset As' being destroyed
+[2022.10.22-20.25.03:034][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.22-20.25.03:037][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototyping/PumpkinTesting' took 0.074
+[2022.10.22-20.25.03:037][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameObjects/Thief/BT_Thief] ([1] browsable assets)...
+[2022.10.22-20.25.03:037][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Thief/BT_Thief]
+[2022.10.22-20.25.03:041][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameObjects/Thief/BT_Thief_Auto4
+[2022.10.22-20.25.03:041][867]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief_Auto4112D865744FD07B7C36D39A4780CA648.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/GameObjects/Thief/BT_Thief_Auto4.uasset'
+[2022.10.22-20.25.03:043][867]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.10.22-20.25.05:335][921]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/GameObjects/Thief/QueryHuntLocation.QueryHuntLocation
+[2022.10.22-20.30.20:613][167]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/QueryHuntLocation
+[2022.10.22-20.30.20:613][167]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/QueryHuntLocation768595414C62B5EEFBB9599597D5A3FD.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/QueryHuntLocation.uasset'
+[2022.10.22-20.30.20:650][167]AssetCheck: New page: Asset Save: QueryHuntLocation
+[2022.10.22-20.30.20:650][167]LogContentValidation: Display: Validating EnvQuery /Game/GameObjects/Thief/QueryHuntLocation.QueryHuntLocation
+[2022.10.22-20.30.22:146][256]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/QueryHuntLocation
+[2022.10.22-20.30.22:148][256]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/QueryHuntLocation4DAD69384A6575E881DBB8B7B6D70FF9.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/QueryHuntLocation.uasset'
+[2022.10.22-20.30.22:179][256]AssetCheck: New page: Asset Save: QueryHuntLocation
+[2022.10.22-20.30.22:179][256]LogContentValidation: Display: Validating EnvQuery /Game/GameObjects/Thief/QueryHuntLocation.QueryHuntLocation
+[2022.10.22-20.30.24:831][414]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-20.30.24:833][414]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_ThiefAEFD6AD246DEC2F4E508D39A3B9D05A3.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-20.30.24:861][414]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-20.30.24:861][414]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-20.30.27:100][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.30.27:112][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.30.27:112][542]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:30:27 AM)
+[2022.10.22-20.30.27:113][542]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.30.27:143][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030164s)
+[2022.10.22-20.30.27:143][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030295s)
+[2022.10.22-20.30.27:143][542]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.30.27:143][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.30.27:144][542]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.30.27:144][542]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2022.10.22-20.30.27:215][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.22-20.30.27:217][542]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.30.27:218][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.30.27:218][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.30.27:218][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.30.27:218][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.30.27:218][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.30.27:221][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.30.27:260][542]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.30.27:260][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.30.27:260][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.30.27:260][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.30.27:262][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.10.22-20.30.27:262][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.10.22-20.30.27:263][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.10.22-20.30.27:263][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.10.22-20.30.27:264][542]LogInit: FAudioDevice initialized.
+[2022.10.22-20.30.27:264][542]LogAudio: Display: Audio Device (ID: 17) registered with world 'PumpkinTesting'.
+[2022.10.22-20.30.27:278][542]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.30.27:294][542]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.30.27
+[2022.10.22-20.30.27:297][542]LogWorld: Bringing up level for play took: 0.019215
+[2022.10.22-20.30.27:300][542]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.10.22-20.30.27:304][542]PIE: Server logged in
+[2022.10.22-20.30.27:305][542]PIE: Play in editor total start time 0.196 seconds.
+[2022.10.22-20.30.30:508][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.30.30:508][725]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.30.30:509][725]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.30.30:510][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.30.30:526][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.30.30:535][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.30.30:604][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.30.30:604][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.10.22-20.30.30:606][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.10.22-20.30.30:610][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.30.30:617][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.10.22-20.30.30:661][726]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.10.22-20.30.31:870][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.30.31:881][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.30.31:882][795]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:30:31 AM)
+[2022.10.22-20.30.31:882][795]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.30.31:912][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030212s)
+[2022.10.22-20.30.31:912][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030339s)
+[2022.10.22-20.30.31:912][795]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.30.31:912][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.30.31:913][795]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.30.31:913][795]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2022.10.22-20.30.31:981][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.22-20.30.31:983][795]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.10.22-20.30.31:983][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.30.31:983][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.30.31:984][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.30.31:984][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.30.31:984][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.30.31:984][795]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.30.31:984][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.30.31:984][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.30.31:984][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.30.31:984][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.30.31:984][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.30.31:987][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.30.32:027][795]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.30.32:028][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.30.32:028][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.30.32:028][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.30.32:030][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.10.22-20.30.32:030][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.10.22-20.30.32:032][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.10.22-20.30.32:032][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.10.22-20.30.32:032][795]LogInit: FAudioDevice initialized.
+[2022.10.22-20.30.32:032][795]LogAudio: Display: Audio Device (ID: 18) registered with world 'PumpkinTesting'.
+[2022.10.22-20.30.32:047][795]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.30.32:063][795]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.30.32
+[2022.10.22-20.30.32:067][795]LogWorld: Bringing up level for play took: 0.019444
+[2022.10.22-20.30.32:069][795]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.10.22-20.30.32:073][795]PIE: Server logged in
+[2022.10.22-20.30.32:074][795]PIE: Play in editor total start time 0.195 seconds.
+[2022.10.22-20.30.39:445][228]LogEQS: Warning: Query QueryHuntLocation_SingleResult is over generation time warning. 0.020828 second (limit is 0.010000 second)
+[2022.10.22-20.30.53:669][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.30.53:669][ 81]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.30.53:669][ 81]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.30.53:671][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.30.53:690][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.30.53:699][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.30.53:768][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.30.53:768][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.22-20.30.53:769][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.22-20.30.53:782][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.22-20.30.53:824][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.10.22-20.31.59:083][249]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/BT_Thief
+[2022.10.22-20.31.59:084][249]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_ThiefEED9B68246652DB3FEF8579BD3B9712C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/BT_Thief.uasset'
+[2022.10.22-20.31.59:113][249]AssetCheck: New page: Asset Save: BT_Thief
+[2022.10.22-20.31.59:113][249]LogContentValidation: Display: Validating BehaviorTree /Game/GameObjects/Thief/BT_Thief.BT_Thief
+[2022.10.22-20.33.14:679][900]LogViewport: Scene viewport resized to 1103x915, mode Windowed.
+[2022.10.22-20.33.16:856][ 27]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.33.17:381][ 54]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.33.17:383][ 54]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinC928D6BA4FE4B61B38163786B652AACF.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.33.17:401][ 54]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.33.17:401][ 54]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.33.20:386][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.33.20:397][230]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.22-20.33.20:399][230]LogPlayLevel: [PlayLevel] Compiling Pumpkin before play...
+[2022.10.22-20.33.20:567][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.22-20.33.20:569][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 172 ms (1 blueprints)
+[2022.10.22-20.33.20:569][230]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:33:20 AM)
+[2022.10.22-20.33.20:570][230]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.33.20:599][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029478s)
+[2022.10.22-20.33.20:599][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029638s)
+[2022.10.22-20.33.20:599][230]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.33.20:599][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.33.20:600][230]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.33.20:600][230]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2022.10.22-20.33.20:683][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.22-20.33.20:684][230]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.33.20:684][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.33.20:684][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.33.20:685][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.33.20:685][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.33.20:685][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.33.20:687][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.33.20:726][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.33.20:727][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.33.20:727][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.33.20:727][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.33.20:729][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.10.22-20.33.20:729][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.10.22-20.33.20:731][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.10.22-20.33.20:731][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.10.22-20.33.20:732][230]LogInit: FAudioDevice initialized.
+[2022.10.22-20.33.20:732][230]LogAudio: Display: Audio Device (ID: 19) registered with world 'PumpkinTesting'.
+[2022.10.22-20.33.20:748][230]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.33.20:765][230]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.33.20
+[2022.10.22-20.33.20:768][230]LogWorld: Bringing up level for play took: 0.019814
+[2022.10.22-20.33.20:771][230]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.10.22-20.33.20:775][230]PIE: Server logged in
+[2022.10.22-20.33.20:776][230]PIE: Play in editor total start time 0.382 seconds.
+[2022.10.22-20.33.22:907][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.33.22:907][346]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.33.22:907][346]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.33.22:909][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.33.22:925][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.33.22:934][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.33.23:001][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.33.23:003][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.22-20.33.23:005][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.22-20.33.23:016][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.22-20.33.23:062][347]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.10.22-20.33.23:105][348]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.33.24:015][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.33.24:026][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.33.24:026][398]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:33:24 AM)
+[2022.10.22-20.33.24:027][398]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.33.24:056][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029779s)
+[2022.10.22-20.33.24:057][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.029986s)
+[2022.10.22-20.33.24:057][398]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.33.24:057][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.33.24:057][398]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.33.24:058][398]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2022.10.22-20.33.24:132][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.22-20.33.24:135][398]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.33.24:135][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.33.24:135][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.33.24:135][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.33.24:135][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.33.24:135][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.33.24:138][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.33.24:178][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.33.24:179][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.33.24:179][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.33.24:179][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.33.24:180][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.10.22-20.33.24:180][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.10.22-20.33.24:182][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.10.22-20.33.24:182][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.10.22-20.33.24:182][398]LogInit: FAudioDevice initialized.
+[2022.10.22-20.33.24:182][398]LogAudio: Display: Audio Device (ID: 20) registered with world 'PumpkinTesting'.
+[2022.10.22-20.33.24:197][398]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.33.24:215][398]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.33.24
+[2022.10.22-20.33.24:219][398]LogWorld: Bringing up level for play took: 0.021925
+[2022.10.22-20.33.24:222][398]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2022.10.22-20.33.24:226][398]PIE: Server logged in
+[2022.10.22-20.33.24:227][398]PIE: Play in editor total start time 0.204 seconds.
+[2022.10.22-20.33.29:298][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.33.29:298][692]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.33.29:299][692]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.33.29:300][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.33.29:321][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.33.29:330][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.33.29:398][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.33.29:399][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.22-20.33.29:400][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.22-20.33.29:405][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.33.29:412][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.22-20.33.29:455][693]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.22-20.33.40:539][291]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-20.34.00:060][451]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.04:417][713]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.09:854][ 41]BlueprintLog: New page: Compile Pumpkin
+[2022.10.22-20.34.09:971][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.22-20.34.10:109][ 41]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.34.10:111][ 41]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinFE4A195B4A6B0D481ED0D6AF4A28A368.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.34.10:128][ 41]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.34.10:129][ 41]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.34.10:165][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.10:617][ 68]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.34.10:619][ 68]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin0E205BC44CF1597BB1B29AA3BD09D16C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.34.10:649][ 68]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.34.10:649][ 68]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.34.13:566][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.22-20.34.13:654][229]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototyping/PumpkinTesting
+[2022.10.22-20.34.13:655][229]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTestingE19179EA43C5181F9FB537B9D99A44CB.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/LevelPrototyping/PumpkinTesting.umap'
+[2022.10.22-20.34.13:685][229]AssetCheck: New page: Asset Save: PumpkinTesting
+[2022.10.22-20.34.13:685][229]LogContentValidation: Display: Validating World /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting
+[2022.10.22-20.34.14:867][302]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.34.14:879][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.34.14:879][302]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:34:14 AM)
+[2022.10.22-20.34.14:879][302]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.34.14:910][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030649s)
+[2022.10.22-20.34.14:910][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030774s)
+[2022.10.22-20.34.14:910][302]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.34.14:910][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.34.14:911][302]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.34.14:911][302]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2022.10.22-20.34.14:977][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.22-20.34.14:979][302]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.34.14:979][302]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.34.14:979][302]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.34.14:980][302]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.34.14:980][302]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.34.14:980][302]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.34.14:982][302]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.34.15:023][302]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.34.15:024][302]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.34.15:024][302]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.34.15:024][302]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.34.15:025][302]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.10.22-20.34.15:025][302]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.10.22-20.34.15:027][302]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.10.22-20.34.15:027][302]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.10.22-20.34.15:027][302]LogInit: FAudioDevice initialized.
+[2022.10.22-20.34.15:027][302]LogAudio: Display: Audio Device (ID: 21) registered with world 'PumpkinTesting'.
+[2022.10.22-20.34.15:042][302]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.34.15:059][302]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.34.15
+[2022.10.22-20.34.15:062][302]LogWorld: Bringing up level for play took: 0.019572
+[2022.10.22-20.34.15:064][302]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2022.10.22-20.34.15:068][302]PIE: Server logged in
+[2022.10.22-20.34.15:069][302]PIE: Play in editor total start time 0.194 seconds.
+[2022.10.22-20.34.16:716][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.34.16:716][391]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.34.16:717][391]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.34.16:719][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.34.16:735][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.34.16:744][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.34.16:808][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.34.16:810][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.22-20.34.16:811][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.22-20.34.16:822][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.22-20.34.16:867][392]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.10.22-20.34.21:104][629]Cmd: EDIT COPY
+[2022.10.22-20.34.22:079][689]Cmd: EDIT PASTE
+[2022.10.22-20.34.22:193][690]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.24:426][802]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.24:545][808]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.24:660][811]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.34.25:001][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.22-20.34.25:089][822]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototyping/PumpkinTesting
+[2022.10.22-20.34.25:090][822]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTestingA3B473754447FC6C88A9FA8DFB2DDD4D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/LevelPrototyping/PumpkinTesting.umap'
+[2022.10.22-20.34.25:123][822]AssetCheck: New page: Asset Save: PumpkinTesting
+[2022.10.22-20.34.25:123][822]LogContentValidation: Display: Validating World /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting
+[2022.10.22-20.34.26:528][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.34.26:541][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.34.26:541][901]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:34:26 AM)
+[2022.10.22-20.34.26:541][901]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.34.26:575][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033186s)
+[2022.10.22-20.34.26:575][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.033317s)
+[2022.10.22-20.34.26:575][901]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.34.26:575][901]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.34.26:575][901]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.34.26:576][901]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2022.10.22-20.34.26:644][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.22-20.34.26:646][901]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.34.26:646][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.34.26:646][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.34.26:647][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.34.26:647][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.34.26:647][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.34.26:649][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.34.26:688][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.34.26:689][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.34.26:689][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.34.26:689][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.34.26:689][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.10.22-20.34.26:689][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.10.22-20.34.26:691][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.10.22-20.34.26:691][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.10.22-20.34.26:691][901]LogInit: FAudioDevice initialized.
+[2022.10.22-20.34.26:692][901]LogAudio: Display: Audio Device (ID: 22) registered with world 'PumpkinTesting'.
+[2022.10.22-20.34.26:705][901]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.34.26:722][901]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.34.26
+[2022.10.22-20.34.26:725][901]LogWorld: Bringing up level for play took: 0.018930
+[2022.10.22-20.34.26:727][901]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.10.22-20.34.26:731][901]PIE: Server logged in
+[2022.10.22-20.34.26:732][901]PIE: Play in editor total start time 0.195 seconds.
+[2022.10.22-20.34.29:566][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.34.29:566][ 61]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.34.29:567][ 61]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.34.29:568][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.34.29:587][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.34.29:596][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.34.29:662][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.34.29:662][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.22-20.34.29:665][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.22-20.34.29:676][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.22-20.34.29:722][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.10.22-20.35.16:022][755]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-20.35.21:600][ 83]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.35.21:613][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.35.21:613][ 83]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:35:21 AM)
+[2022.10.22-20.35.21:613][ 83]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.35.21:644][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030589s)
+[2022.10.22-20.35.21:644][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030719s)
+[2022.10.22-20.35.21:644][ 83]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.35.21:644][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.35.21:644][ 83]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.35.21:645][ 83]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2022.10.22-20.35.21:714][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.22-20.35.21:716][ 83]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.10.22-20.35.21:716][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.35.21:717][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.35.21:717][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.35.21:717][ 83]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.35.21:717][ 83]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.35.21:717][ 83]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.35.21:719][ 83]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.35.21:759][ 83]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.35.21:759][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.35.21:759][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.35.21:759][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.35.21:760][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.10.22-20.35.21:760][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.10.22-20.35.21:763][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.10.22-20.35.21:763][ 83]LogInit: FAudioDevice initialized.
+[2022.10.22-20.35.21:763][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.10.22-20.35.21:763][ 83]LogAudio: Display: Audio Device (ID: 23) registered with world 'PumpkinTesting'.
+[2022.10.22-20.35.21:776][ 83]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.35.21:793][ 83]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.35.21
+[2022.10.22-20.35.21:796][ 83]LogWorld: Bringing up level for play took: 0.019567
+[2022.10.22-20.35.21:798][ 83]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2022.10.22-20.35.21:802][ 83]PIE: Server logged in
+[2022.10.22-20.35.21:803][ 83]PIE: Play in editor total start time 0.194 seconds.
+[2022.10.22-20.35.24:476][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.35.24:476][232]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.35.24:477][232]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.35.24:478][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.35.24:500][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.35.24:508][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.35.24:576][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.35.24:576][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.22-20.35.24:578][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.22-20.35.24:589][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.22-20.35.24:634][233]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.10.22-20.37.56:985][753]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-20.37.56:987][753]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard3A6E655E42FC620CF75343809525EEF1.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-20.37.57:017][753]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-20.37.57:018][753]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-20.38.00:023][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.38.00:037][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.38.00:037][919]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:38:00 AM)
+[2022.10.22-20.38.00:037][919]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.38.00:068][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030281s)
+[2022.10.22-20.38.00:068][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030422s)
+[2022.10.22-20.38.00:068][919]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.38.00:068][919]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.38.00:068][919]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.38.00:069][919]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2022.10.22-20.38.00:139][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.22-20.38.00:142][919]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.38.00:143][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.38.00:143][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.38.00:143][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.38.00:143][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.38.00:143][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.38.00:146][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.38.00:187][919]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.38.00:187][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.38.00:187][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.38.00:187][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.38.00:188][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.10.22-20.38.00:188][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.10.22-20.38.00:190][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.10.22-20.38.00:190][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.10.22-20.38.00:190][919]LogInit: FAudioDevice initialized.
+[2022.10.22-20.38.00:190][919]LogAudio: Display: Audio Device (ID: 24) registered with world 'PumpkinTesting'.
+[2022.10.22-20.38.00:203][919]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.38.00:220][919]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.38.00
+[2022.10.22-20.38.00:224][919]LogWorld: Bringing up level for play took: 0.020097
+[2022.10.22-20.38.00:227][919]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.10.22-20.38.00:232][919]PIE: Server logged in
+[2022.10.22-20.38.00:234][919]PIE: Play in editor total start time 0.201 seconds.
+[2022.10.22-20.38.03:115][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.38.03:115][ 82]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.38.03:115][ 82]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.38.03:117][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.38.03:133][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.38.03:142][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.38.03:211][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.38.03:211][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.22-20.38.03:214][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.22-20.38.03:218][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.38.03:225][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.22-20.38.03:259][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.10.22-20.38.37:033][ 86]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-20.38.37:034][ 86]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard1641EDB64447E7B7063660A471F2C11E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-20.38.37:052][ 86]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-20.38.37:052][ 86]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-20.38.42:581][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.38.42:592][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.38.42:592][417]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:38:42 AM)
+[2022.10.22-20.38.42:593][417]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.38.42:624][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031214s)
+[2022.10.22-20.38.42:624][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.031354s)
+[2022.10.22-20.38.42:624][417]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.38.42:624][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.38.42:625][417]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.38.42:625][417]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2022.10.22-20.38.42:695][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.22-20.38.42:698][417]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.38.42:698][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.38.42:698][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.38.42:699][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.38.42:699][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.38.42:699][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.38.42:701][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.38.42:743][417]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.38.42:743][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.38.42:743][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.38.42:743][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.38.42:744][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.10.22-20.38.42:744][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.10.22-20.38.42:746][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.10.22-20.38.42:746][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.10.22-20.38.42:746][417]LogInit: FAudioDevice initialized.
+[2022.10.22-20.38.42:746][417]LogAudio: Display: Audio Device (ID: 25) registered with world 'PumpkinTesting'.
+[2022.10.22-20.38.42:761][417]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.38.42:778][417]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.38.42
+[2022.10.22-20.38.42:781][417]LogWorld: Bringing up level for play took: 0.019758
+[2022.10.22-20.38.42:783][417]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.10.22-20.38.42:788][417]PIE: Server logged in
+[2022.10.22-20.38.42:789][417]PIE: Play in editor total start time 0.2 seconds.
+[2022.10.22-20.38.45:376][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.38.45:376][563]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.38.45:377][563]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.38.45:378][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.38.45:401][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.38.45:410][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.38.45:478][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.38.45:478][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.22-20.38.45:480][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.22-20.38.45:491][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.22-20.38.45:539][564]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.10.22-20.40.07:987][489]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-20.40.07:989][489]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard064CECE44221FC6F886A049733B5FC78.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-20.40.08:021][489]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-20.40.08:021][489]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-20.40.15:620][942]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefBlackBoard
+[2022.10.22-20.40.15:621][942]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefBlackBoard916AF88844B6FB905E26B0B9ABBDF249.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefBlackBoard.uasset'
+[2022.10.22-20.40.15:653][942]AssetCheck: New page: Asset Save: ThiefBlackBoard
+[2022.10.22-20.40.15:653][942]LogContentValidation: Display: Validating BlackboardData /Game/GameObjects/Thief/ThiefBlackBoard.ThiefBlackBoard
+[2022.10.22-20.41.02:792][671]LogSlate: Window 'Delete Component' being destroyed
+[2022.10.22-20.41.06:509][790]LogSlate: Window 'Delete Component' being destroyed
+[2022.10.22-20.41.06:531][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2022.10.22-20.41.06:531][790]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Target Perception Updated (AIPerception)  was bound to has been deleted! This node is no longer valid
+[2022.10.22-20.41.06:531][790]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.10.22-20.41.06:531][790]BlueprintLog: Error: The component that  On Target Perception Updated (AIPerception)  was bound to has been deleted! This node is no longer valid
+[2022.10.22-20.41.07:846][845]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.41.07:847][845]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController71C8E790428B2191289879AF36DF1F35.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.41.07:873][845]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.41.07:873][845]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.41.08:825][904]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-20.41.08:841][904]LogBlueprint: Warning: [AssetLog] H:\Nenmar\Documents\Projects\Code\GitHub\GrindsetGames\PumpkinDispatcher\Content\GameObjects\Thief\ThiefController.uasset: [Compiler] On Target Perception Updated (AIPerception)  does not have a valid matching component!
+[2022.10.22-20.41.08:945][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.10.22-20.41.09:628][942]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.41.09:630][942]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController9130CC3B4988CF8D8C39ADB1A28AD04C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.41.09:656][942]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.41.09:656][942]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.41.13:194][125]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.41.13:207][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.41.13:207][125]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:41:13 AM)
+[2022.10.22-20.41.13:207][125]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.41.13:238][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030387s)
+[2022.10.22-20.41.13:238][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030521s)
+[2022.10.22-20.41.13:238][125]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.41.13:238][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.41.13:238][125]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.41.13:239][125]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2022.10.22-20.41.13:308][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.10.22-20.41.13:311][125]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.41.13:311][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.41.13:311][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.41.13:312][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.41.13:312][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.41.13:312][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.41.13:314][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.41.13:355][125]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.41.13:355][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.41.13:355][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.41.13:355][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.41.13:357][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.10.22-20.41.13:357][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.10.22-20.41.13:359][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.10.22-20.41.13:359][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.10.22-20.41.13:359][125]LogInit: FAudioDevice initialized.
+[2022.10.22-20.41.13:359][125]LogAudio: Display: Audio Device (ID: 26) registered with world 'PumpkinTesting'.
+[2022.10.22-20.41.13:376][125]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.41.13:392][125]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.41.13
+[2022.10.22-20.41.13:395][125]LogWorld: Bringing up level for play took: 0.019290
+[2022.10.22-20.41.13:398][125]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.10.22-20.41.13:403][125]PIE: Server logged in
+[2022.10.22-20.41.13:404][125]PIE: Play in editor total start time 0.2 seconds.
+[2022.10.22-20.41.14:196][157]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.15:266][211]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.16:340][266]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.17:399][321]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.18:473][377]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.19:533][432]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.41.20:104][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.41.20:104][462]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.41.20:104][462]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.41.20:106][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.41.20:124][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.41.20:133][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.41.20:202][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.41.20:202][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.10.22-20.41.20:204][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.10.22-20.41.20:208][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.41.20:215][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.22-20.41.20:259][463]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.10.22-20.41.26:260][811]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-20.41.26:358][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.22-20.41.26:443][811]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.41.26:445][811]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController6AE46AEE4F388514E3BFC8AEDBF8BCDE.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.41.26:471][811]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.41.26:471][811]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.41.27:243][853]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.41.27:245][853]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController9C4F45BC4795BEDD212D4E9E6BB32E1B.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.41.27:271][853]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.41.27:271][853]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.42.11:663][512]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-20.42.18:013][892]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.42.28:761][537]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-20.42.28:857][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.22-20.42.28:927][537]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.42.28:928][537]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController7F4C206F42EE86EE653AF6917326AE8A.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.42.28:955][537]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.42.28:955][537]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.42.29:375][558]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.42.29:376][558]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerD293C74E4D5118499BDCC1832B0F4793.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.42.29:406][558]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.42.29:406][558]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.42.31:827][705]BlueprintLog: New page: Compile Pumpkin
+[2022.10.22-20.42.31:937][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.22-20.42.32:087][705]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.42.32:089][705]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinB35420DC41E9F08AD05D3D8D9851557A.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.42.32:107][705]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.42.32:107][705]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.42.32:147][706]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.42.32:410][719]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.42.32:411][719]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin07ACD8304D77E8AC89E09C95EE69DB5F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.42.32:440][719]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.42.32:440][719]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.42.34:562][830]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.10.22-20.42.34:652][830]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototyping/PumpkinTesting
+[2022.10.22-20.42.34:654][830]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTestingFA8F5AA74909651AC43D5687F8944C08.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/LevelPrototyping/PumpkinTesting.umap'
+[2022.10.22-20.42.34:684][830]AssetCheck: New page: Asset Save: PumpkinTesting
+[2022.10.22-20.42.34:684][830]LogContentValidation: Display: Validating World /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting
+[2022.10.22-20.42.35:018][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.42.35:033][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.42.35:033][854]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:42:35 AM)
+[2022.10.22-20.42.35:034][854]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.42.35:075][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041112s)
+[2022.10.22-20.42.35:075][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.041309s)
+[2022.10.22-20.42.35:075][854]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.42.35:075][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.42.35:076][854]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.42.35:077][854]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2022.10.22-20.42.35:154][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.10.22-20.42.35:155][854]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.10.22-20.42.35:155][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.42.35:156][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.42.35:156][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.42.35:156][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.42.35:156][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.42.35:156][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.42.35:159][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.42.35:198][854]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.42.35:198][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.42.35:198][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.42.35:198][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.42.35:199][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.10.22-20.42.35:200][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.10.22-20.42.35:202][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.10.22-20.42.35:202][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.10.22-20.42.35:202][854]LogInit: FAudioDevice initialized.
+[2022.10.22-20.42.35:202][854]LogAudio: Display: Audio Device (ID: 27) registered with world 'PumpkinTesting'.
+[2022.10.22-20.42.35:216][854]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.42.35:233][854]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.42.35
+[2022.10.22-20.42.35:236][854]LogWorld: Bringing up level for play took: 0.019654
+[2022.10.22-20.42.35:238][854]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.10.22-20.42.35:243][854]PIE: Server logged in
+[2022.10.22-20.42.35:244][854]PIE: Play in editor total start time 0.218 seconds.
+[2022.10.22-20.42.36:024][893]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.42.37:087][957]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.42.38:152][ 21]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.42.39:220][ 85]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] Hello
+[2022.10.22-20.42.39:715][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.42.39:715][112]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.42.39:715][112]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.42.39:717][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.42.39:733][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.42.39:742][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.42.39:809][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.42.39:809][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.10.22-20.42.39:811][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.10.22-20.42.39:816][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.42.39:822][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.22-20.42.39:867][113]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.10.22-20.42.44:683][392]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-20.42.56:777][114]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-20.42.56:872][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.22-20.42.56:942][114]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.42.56:944][114]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerBEFB1D304EA08E85B535EBB5DB786D0A.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.42.56:972][114]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.42.56:972][114]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.42.59:609][268]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-20.43.01:024][352]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.43.02:214][427]BlueprintLog: New page: Compile Pumpkin
+[2022.10.22-20.43.02:329][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.10.22-20.43.02:462][427]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.43.02:464][427]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinB5993B06498AC5C27880A6B6C2703023.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.43.02:482][427]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.43.02:482][427]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.43.02:521][428]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.22-20.43.02:791][442]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-20.43.02:792][442]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinE705568846AC58CA4B3B34B8660107C0.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-20.43.02:823][442]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-20.43.02:823][442]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-20.43.06:793][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.22-20.43.06:888][670]LogSavePackage: Moving output files for package: /Game/Levels/LevelPrototyping/PumpkinTesting
+[2022.10.22-20.43.06:890][670]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTesting2ABB4EE9455CEE9C106F02AB79CDCA1E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/LevelPrototyping/PumpkinTesting.umap'
+[2022.10.22-20.43.06:920][670]AssetCheck: New page: Asset Save: PumpkinTesting
+[2022.10.22-20.43.06:921][670]LogContentValidation: Display: Validating World /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting
+[2022.10.22-20.43.07:505][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.43.07:517][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.43.07:517][704]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:43:07 AM)
+[2022.10.22-20.43.07:517][704]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.43.07:549][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031427s)
+[2022.10.22-20.43.07:549][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.031576s)
+[2022.10.22-20.43.07:549][704]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.43.07:549][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.43.07:549][704]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.43.07:550][704]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2022.10.22-20.43.07:621][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.22-20.43.07:623][704]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.43.07:623][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.43.07:623][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.43.07:624][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.43.07:624][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.43.07:624][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.43.07:626][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.43.07:666][704]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.43.07:666][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.43.07:666][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.43.07:666][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.43.07:668][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.10.22-20.43.07:668][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.10.22-20.43.07:670][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.10.22-20.43.07:670][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.10.22-20.43.07:670][704]LogInit: FAudioDevice initialized.
+[2022.10.22-20.43.07:670][704]LogAudio: Display: Audio Device (ID: 28) registered with world 'PumpkinTesting'.
+[2022.10.22-20.43.07:683][704]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.43.07:700][704]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.43.07
+[2022.10.22-20.43.07:702][704]LogWorld: Bringing up level for play took: 0.019592
+[2022.10.22-20.43.07:705][704]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.10.22-20.43.07:710][704]PIE: Server logged in
+[2022.10.22-20.43.07:711][704]PIE: Play in editor total start time 0.198 seconds.
+[2022.10.22-20.43.35:055][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.43.35:055][334]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.43.35:055][334]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.43.35:057][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.43.35:077][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.43.35:086][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.43.35:154][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.43.35:154][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.10.22-20.43.35:156][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.10.22-20.43.35:161][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.43.35:167][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.22-20.43.35:212][335]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.22-20.44.13:561][618]BlueprintLog: New page: Compile ThiefController
+[2022.10.22-20.44.13:655][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.22-20.44.13:727][618]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.44.13:729][618]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefController07AAB5414B3FFEE0271AE98EBAAF5896.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.44.13:756][618]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.44.13:757][618]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.44.14:127][637]LogSavePackage: Moving output files for package: /Game/GameObjects/Thief/ThiefController
+[2022.10.22-20.44.14:129][637]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ThiefControllerDFEA2E0C4FB9147A43948BB938AA1576.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Thief/ThiefController.uasset'
+[2022.10.22-20.44.14:156][637]AssetCheck: New page: Asset Save: ThiefController
+[2022.10.22-20.44.14:156][637]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Thief/ThiefController.ThiefController
+[2022.10.22-20.44.16:416][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.22-20.44.16:428][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-20.44.16:428][768]PIE: New page: PIE session: PumpkinTesting (Oct 22, 2022, 8:44:16 AM)
+[2022.10.22-20.44.16:428][768]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.44.16:459][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030770s)
+[2022.10.22-20.44.16:459][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030901s)
+[2022.10.22-20.44.16:459][768]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-20.44.16:459][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-20.44.16:460][768]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.22-20.44.16:460][768]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2022.10.22-20.44.16:542][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.10.22-20.44.16:544][768]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.10.22-20.44.16:544][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-20.44.16:544][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-20.44.16:544][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-20.44.16:545][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-20.44.16:545][768]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-20.44.16:545][768]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.22-20.44.16:545][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-20.44.16:545][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-20.44.16:546][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-20.44.16:546][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-20.44.16:546][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-20.44.16:549][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.22-20.44.16:590][768]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.22-20.44.16:591][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-20.44.16:591][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-20.44.16:591][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-20.44.16:592][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.10.22-20.44.16:592][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.10.22-20.44.16:594][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.10.22-20.44.16:594][768]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.10.22-20.44.16:595][768]LogInit: FAudioDevice initialized.
+[2022.10.22-20.44.16:595][768]LogAudio: Display: Audio Device (ID: 29) registered with world 'PumpkinTesting'.
+[2022.10.22-20.44.16:607][768]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.22-20.44.16:625][768]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.22-14.44.16
+[2022.10.22-20.44.16:628][768]LogWorld: Bringing up level for play took: 0.020628
+[2022.10.22-20.44.16:630][768]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2022.10.22-20.44.16:636][768]PIE: Server logged in
+[2022.10.22-20.44.16:637][768]PIE: Play in editor total start time 0.213 seconds.
+[2022.10.22-20.44.29:484][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.44.29:484][530]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.22-20.44.29:485][530]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-20.44.29:487][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.44.29:510][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-20.44.29:519][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-20.44.29:591][530]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-20.44.29:591][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.10.22-20.44.29:593][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.10.22-20.44.29:597][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-20.44.29:604][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.22-20.44.29:649][531]LogPlayLevel: Display: Destroying online subsystem :Context_45
