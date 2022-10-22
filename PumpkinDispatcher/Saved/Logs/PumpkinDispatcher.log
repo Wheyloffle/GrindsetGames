@@ -999,3 +999,94 @@ Recommended: 516.25
 [2022.10.22-01.04.17:454][  1]LogSlate: Took 0.000784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2022.10.22-01.04.24:976][140]LogSlate: Window 'Content Browser' being destroyed
 [2022.10.22-01.04.24:980][140]LogSlate: Window 'Content Browser' being destroyed
+[2022.10.22-01.06.04:718][514]LogDerivedDataCache: C:/Users/notth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.650 and deleted 5 file(s) with total size 0 MiB.
+[2022.10.22-01.07.04:470][741]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-01.07.04:470][741]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Developers/notth/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-01.07.04:804][742]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.22-01.07.34:731][507]LogObjectTools: Deleting 3 worlds: /Game/Halloween_Pumpkins/Levels/L_Halloween_Pumpkins_Demo_Day.L_Halloween_Pumpkins_Demo_Day, /Game/Halloween_Pumpkins/Levels/L_Halloween_Pumpkins_Demo_Night.L_Halloween_Pumpkins_Demo_Night, /Game/Halloween_Pumpkins/Levels/L_Halloween_Pumpkins_Overview.L_Halloween_Pumpkins_Overview
+[2022.10.22-01.07.34:731][507]LogObjectTools: Currently 1 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.10.22-01.07.34:741][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.22-01.07.57:251][507]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.07.57:257][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Demo_Day, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:257][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:257][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Demo_Night, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:258][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:258][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Overview, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:258][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: ================================================
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.22-01.07.57:312][507]LogShaderCompilers: Display: ================================================
+[2022.10.22-01.07.57:367][507]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.22-01.07.57:367][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Demo_Day, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:367][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:435][507]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.22-01.07.57:435][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Demo_Night, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:435][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:518][507]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.22-01.07.57:518][507]LogWorld: UWorld::CleanupWorld for L_Halloween_Pumpkins_Overview, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.07.57:518][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.07.57:533][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.22-01.07.57:539][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.22-01.07.57:543][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.10.22-01.14.44:097][733]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Halloween_Pumpkins/Textures/T_Ground_BC.T_Ground_BC
+[2022.10.22-01.14.44:211][733]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.22-01.14.44:392][733]LogViewport: Scene viewport resized to 1895x1155, mode Windowed.
+[2022.10.22-01.14.45:936][822]LogViewport: Scene viewport resized to 1895x1137, mode Windowed.
+[2022.10.22-01.14.46:860][877]LogViewport: Scene viewport resized to 1895x1155, mode Windowed.
+[2022.10.22-01.14.49:250][ 20]LogSlate: Window 'T_Ground_BC' being destroyed
+[2022.10.22-01.14.49:255][ 20]LogSlate: Window 'T_Ground_BC' being destroyed
+[2022.10.22-01.14.58:201][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.22-01.15.02:533][546]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.15.02:542][546]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Halloween_Pumpkins/Materials/M_Terrain.M_Terrain
+	Asset Type: Material
+[2022.10.22-01.15.03:177][546]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Halloween_Pumpkins/Meshes/SM_Terrain) ...
+[2022.10.22-01.15.03:584][546]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Halloween_Pumpkins/Meshes/SM_Terrain) ...
+[2022.10.22-01.15.03:964][546]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Halloween_Pumpkins/Meshes/SM_Terrain) ...
+[2022.10.22-01.15.04:323][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.22-01.15.04:329][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.22-01.15.04:334][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.22-01.15.09:318][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-01.15.10:855][828]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.15.10:864][828]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Halloween_Pumpkins/Material_Instances/MI_Ground_00.MI_Ground_00
+	Asset Type: MaterialInstanceConstant
+[2022.10.22-01.15.11:126][828]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Halloween_Pumpkins/Meshes/SM_Ground) ...
+[2022.10.22-01.15.11:288][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.22-01.15.11:294][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.10.22-01.15.11:300][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.10.22-01.15.12:666][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.22-01.15.14:605][906]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.15.14:617][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.22-01.15.14:624][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.22-01.15.14:630][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.22-01.15.22:198][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.22-01.15.23:869][341]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.15.23:922][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.22-01.15.23:930][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.22-01.15.23:936][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.10.22-01.15.44:861][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.22-01.15.44:976][922]LogSavePackage: Moving output files for package: /Game/Halloween_Pumpkins/Material_Instances/MI_Terrain
+[2022.10.22-01.15.44:977][922]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MI_Terrain081FEEC540E8D35BECCED286EC50F5C5.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Halloween_Pumpkins/Material_Instances/MI_Terrain.uasset'
+[2022.10.22-01.15.45:669][922]LogSavePackage: Moving output files for package: /Game/Halloween_Pumpkins/Meshes/SM_Terrain
+[2022.10.22-01.15.45:670][922]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/SM_Terrain51476BB043496F5FD52D46ABB0D48730.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Halloween_Pumpkins/Meshes/SM_Terrain.uasset'
+[2022.10.22-01.15.45:680][922]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.22-01.15.45:680][922]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Halloween_Pumpkins/Material_Instances/MI_Terrain.MI_Terrain
+[2022.10.22-01.15.45:680][922]LogContentValidation: Display: Validating StaticMesh /Game/Halloween_Pumpkins/Meshes/SM_Terrain.SM_Terrain
+[2022.10.22-01.16.22:449][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.22-01.16.25:125][773]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.16.25:252][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.22-01.16.25:258][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.22-01.16.25:264][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.22-01.16.27:953][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-01.16.29:342][925]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-01.16.29:492][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.22-01.16.29:499][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.22-01.16.29:504][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
