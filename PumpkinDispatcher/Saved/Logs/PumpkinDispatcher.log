@@ -1377,3 +1377,8 @@ Recommended: 516.25
 [2022.10.22-15.28.58:107][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2022.10.22-15.28.58:144][868]LogPlayLevel: Display: Destroying online subsystem :Context_16
 [2022.10.22-15.28.58:644][898]Cmd: SELECT NONE
+[2022.10.22-15.29.25:117][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.10.22-15.29.25:134][ 51]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/GameMap/9/NZ/ED6YRECNVG3RBWSCCRNRHY_Auto2
+[2022.10.22-15.29.25:134][ 51]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ED6YRECNVG3RBWSCCRNRHY_Auto2882D79424A431C3CEEAA1C81DCE97939.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/__ExternalActors__/Levels/GameMap/9/NZ/ED6YRECNVG3RBWSCCRNRHY_Auto2.uasset'
+[2022.10.22-15.29.25:137][ 51]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/GameMap' took 0.078
+[2022.10.22-15.29.25:137][ 51]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
