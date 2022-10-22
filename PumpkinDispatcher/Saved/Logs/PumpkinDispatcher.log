@@ -1090,3 +1090,17 @@ Recommended: 516.25
 [2022.10.22-01.16.29:492][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2022.10.22-01.16.29:499][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
 [2022.10.22-01.16.29:504][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.22-01.17.45:680][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.22-01.17.45:682][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.17.46:772][475]LogSlate: Took 0.000688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.22-01.18.02:938][403]LogSlate: Took 0.005135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.22-01.18.07:001][633]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.10.22-01.18.07:053][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.22-01.18.09:229][751]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.10.22-01.18.09:229][751]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/BP_FirstPersonCharacter39F3FDD248A8952CF8CDEC97C278756B.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.10.22-01.18.09:245][751]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.10.22-01.18.09:245][751]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.10.22-01.18.10:493][823]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.22-01.18.10:497][823]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.10.22-01.18.10:500][823]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.18.10:500][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
