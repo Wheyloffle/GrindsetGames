@@ -3043,3 +3043,350 @@ Recommended: 516.25
 [2022.10.22-22.45.35:211][114]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Hud/UX/MI_PumpkinBar_Auto5
 [2022.10.22-22.45.35:211][114]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MI_PumpkinBar_Auto53B12DC084793B564D53D99A1FC28745D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/UI/Hud/UX/MI_PumpkinBar_Auto5.uasset'
 [2022.10.22-22.45.35:213][114]LogFileHelpers: Auto-saving content packages took 0.113
+[2022.10.22-22.48.25:945][198]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-22.48.25:960][198]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-22.48.25:974][199]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-22.48.28:066][325]LogContentBrowser: Attempting asset rename: NewFolder -> Interfaces
+[2022.10.22-22.48.28:067][325]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-22.48.46:806][111]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-22.49.02:041][111]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-22.49.02:974][111]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.22-22.49.02:998][111]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.22-22.49.03:009][111]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.22-22.49.03:033][113]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.22-22.49.10:466][559]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainHUDInterface
+[2022.10.22-22.49.10:498][559]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.22-22.49.15:443][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.49.15:443][664]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-22.49.43:473][ 37]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-22.49.45:674][ 37]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.22-22.49.45:699][ 37]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.22-22.49.45:708][ 37]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.22-22.49.45:723][ 38]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.22-22.49.46:517][ 86]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.10.22-22.49.46:522][ 86]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.22-22.49.47:500][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.22-22.49.48:858][138]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-22.49.48:944][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.22-22.50.15:454][449]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.50.15:454][449]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface1DED06FF4A968E61DCC3E387A66839B0.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.50.15:485][449]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.50.15:485][449]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.50.29:041][ 41]BlueprintLog: New page: Compile MainHUDInterface
+[2022.10.22-22.50.29:109][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.22-22.50.29:170][ 41]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.50.29:172][ 41]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface875F2D664136D10D15D10FBF0C6F98DC.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.50.29:203][ 41]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.50.29:203][ 41]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.50.29:802][ 74]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.50.29:804][ 74]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface9D3D46E542C347118E9CC3A71C80F77B.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.50.29:835][ 74]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.50.29:835][ 74]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.50.57:043][251]BlueprintLog: New page: Compile MainHUDInterface
+[2022.10.22-22.50.57:114][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.22-22.50.57:187][251]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.50.57:189][251]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterfaceF079A57C4C734A662CAFC2BD4DC2E2B3.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.50.57:220][251]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.50.57:220][251]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.50.57:638][272]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.50.57:640][272]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface6BB25A8A480D0E213AA290B38B0DD3A4.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.50.57:671][272]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.50.57:671][272]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.17:448][862]BlueprintLog: New page: Compile MainHUDInterface
+[2022.10.22-22.51.17:522][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.10.22-22.51.17:589][862]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.17:590][862]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterfaceF394F25A4073CA877DA0C0AC43A21FA2.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.17:620][862]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.17:620][862]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.18:190][892]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.18:191][892]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface341C8EB840E6935C106944AF0CC6FB18.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.18:220][892]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.18:220][892]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.33:898][650]BlueprintLog: New page: Compile MainHUDInterface
+[2022.10.22-22.51.33:969][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.22-22.51.34:038][650]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.34:040][650]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface7A26B4A04683CE54F02F99981B71A93B.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.34:072][650]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.34:072][650]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.34:604][678]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.34:606][678]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface824F2B394899DFF2A7F2329C80048978.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.34:637][678]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.34:637][678]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.36:349][783]BlueprintLog: New page: Compile MainHUDInterface
+[2022.10.22-22.51.36:417][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.22-22.51.36:489][783]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.36:490][783]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface80CCD47840F2EFDCC1B19D950C3BB96B.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.36:521][783]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.36:521][783]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.51.36:805][796]LogSavePackage: Moving output files for package: /Game/UI/Interfaces/MainHUDInterface
+[2022.10.22-22.51.36:807][796]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainHUDInterface4001DD2C493856808EC4F4B045209A86.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Interfaces/MainHUDInterface.uasset'
+[2022.10.22-22.51.36:840][796]AssetCheck: New page: Asset Save: MainHUDInterface
+[2022.10.22-22.51.36:840][796]LogContentValidation: Display: Validating Blueprint /Game/UI/Interfaces/MainHUDInterface.MainHUDInterface
+[2022.10.22-22.53.20:600][278]BlueprintLog: New page: Compile HUD_Widget
+[2022.10.22-22.53.20:671][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.22-22.53.21:258][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-22.53.21:264][303]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-22.53.21:266][303]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget0470946F403793B0C40529A448C601A6.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-22.53.21:287][303]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-22.53.21:287][303]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-22.55.30:666][ 41]BlueprintLog: New page: Compile HUD_Widget
+[2022.10.22-22.55.30:756][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.10.22-22.55.30:830][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-22.55.30:837][ 41]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-22.55.30:839][ 41]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget62E85634411BD7025E8ED3B99ADB0113.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-22.55.30:856][ 41]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-22.55.30:856][ 41]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-22.55.31:823][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-22.55.31:829][ 95]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-22.55.31:831][ 95]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget23A39D974DE500DAE08F198E7417C95C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-22.55.31:856][ 95]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-22.55.31:856][ 95]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-22.56.03:475][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.22-22.56.03:538][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.22-22.56.03:541][291]LogSavePackage: Moving output files for package: /Game/UI/Hud/UX/MI_PumpkinBar
+[2022.10.22-22.56.03:542][291]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MI_PumpkinBar328C988248EB3EC2105D4D910DCDBEF8.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_PumpkinBar.uasset'
+[2022.10.22-22.56.03:559][291]AssetCheck: New page: Asset Save: MI_PumpkinBar
+[2022.10.22-22.56.03:559][291]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/UI/Hud/UX/MI_PumpkinBar.MI_PumpkinBar
+[2022.10.22-22.56.13:761][904]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.13:761][904]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.15:447][  7]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.15:447][  7]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.19:531][119]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.19:531][119]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.22-22.56.21:106][215]LogContentBrowser: Deferred new asset file creation: M_StackedPumpkinProgBar_Inst
+[2022.10.22-22.56.21:113][215]LogContentBrowser: Creating deferred item: M_StackedPumpkinProgBar_Inst
+[2022.10.22-22.56.21:122][216]LogContentBrowser: Renaming the item being created (Deferred Item: M_StackedPumpkinProgBar_Inst).
+[2022.10.22-22.56.32:552][904]LogContentBrowser: Attempting asset rename: M_StackedPumpkinProgBar_Inst -> MI_SoulBar
+[2022.10.22-22.56.32:553][904]LogContentBrowser: End creating deferred item M_StackedPumpkinProgBar_Inst
+[2022.10.22-22.56.34:667][ 30]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/UI/Hud/UX/MI_SoulBar.MI_SoulBar
+[2022.10.22-22.56.34:669][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-22.57.08:522][864]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-22.57.25:139][860]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-22.57.26:343][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud/UX/MI_SoulBar" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset" SILENT=true
+[2022.10.22-22.57.26:407][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.22-22.57.26:470][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.22-22.57.26:473][928]LogSavePackage: Moving output files for package: /Game/UI/Hud/UX/MI_SoulBar
+[2022.10.22-22.57.26:473][928]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MI_SoulBar93F27E37498E35059F68C595E5429D0D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset'
+[2022.10.22-22.57.26:490][928]AssetCheck: New page: Asset Save: MI_SoulBar
+[2022.10.22-22.57.26:490][928]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/UI/Hud/UX/MI_SoulBar.MI_SoulBar
+[2022.10.22-22.57.48:672][897]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-22.58.16:515][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud/UX/MI_SoulBar" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset" SILENT=true
+[2022.10.22-22.58.16:578][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-22.58.16:644][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.22-22.58.16:647][577]LogSavePackage: Moving output files for package: /Game/UI/Hud/UX/MI_SoulBar
+[2022.10.22-22.58.16:649][577]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MI_SoulBar2C48AEC642E1D06ACCD142B6BC41C945.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset'
+[2022.10.22-22.58.16:667][577]AssetCheck: New page: Asset Save: MI_SoulBar
+[2022.10.22-22.58.16:668][577]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/UI/Hud/UX/MI_SoulBar.MI_SoulBar
+[2022.10.22-22.58.36:956][794]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-22.58.53:056][668]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-22.58.57:345][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Hud/UX/MI_SoulBar" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset" SILENT=true
+[2022.10.22-22.58.57:410][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-22.58.57:472][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-22.58.57:475][921]LogSavePackage: Moving output files for package: /Game/UI/Hud/UX/MI_SoulBar
+[2022.10.22-22.58.57:477][921]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MI_SoulBar53E339714785ABF02A015B9D5BB87F50.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/MI_SoulBar.uasset'
+[2022.10.22-22.58.57:495][921]AssetCheck: New page: Asset Save: MI_SoulBar
+[2022.10.22-22.58.57:495][921]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/UI/Hud/UX/MI_SoulBar.MI_SoulBar
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: ================================================
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Total job queries 737, among them cache hits 589 (79.92%)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Tracking 148 distinct input hashes that result in 92 distinct outputs (62.16%)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Shaders Compiled: 50
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100.00%)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Average time worker was idle: 136.45 s
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Time job spent in pending queue: average 0.51 s, longest 2.17 s
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Job execution time: average 1.73 s, max 10.01 s
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Job life time (pending + execution): average 2.24 s, max 10.04
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.39 s
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 1.04 jobs/batch
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Average processing rate: 3.58 jobs/sec
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Effective parallelization: 2.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> (compiled    6 times, average 1.29 sec, max 1.50 sec, min 1.12 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled    6 times, average 1.28 sec, max 1.41 sec, min 1.17 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 1.27 sec, max 1.44 sec, min 1.11 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    6 times, average 1.26 sec, max 1.45 sec, min 1.09 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.60% of total time (compiled   15 times, average 0.95 sec, max 1.39 sec, min 0.70 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.28% of total time (compiled   15 times, average 0.86 sec, max 1.32 sec, min 0.58 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.49% of total time (compiled    7 times, average 1.27 sec, max 1.44 sec, min 1.11 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.61% of total time (compiled    7 times, average 1.14 sec, max 1.30 sec, min 0.94 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> - 7.37% of total time (compiled    6 times, average 1.29 sec, max 1.50 sec, min 1.12 sec)
+[2022.10.22-23.00.03:143][924]LogShaderCompilers: Display: ================================================
+[2022.10.22-23.00.03:174][927]MaterialEditorStats: Texture samplers: 1/16
+[2022.10.22-23.00.03:174][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.10.22-23.00.03:174][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.22-23.00.03:174][927]MaterialEditorStats: Shader Count: 2
+[2022.10.22-23.03.43:121][300]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.03.43:121][300]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.03:716][507]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.03:716][507]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.16:871][294]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.16:871][294]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.22:964][638]LogSavePackage: Moving output files for package: /Game/UI/Widgets/NewWidgetBlueprint
+[2022.10.22-23.04.22:965][638]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/NewWidgetBlueprint852F893E42CB7A0A3AD7DD928332556B.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/NewWidgetBlueprint.uasset'
+[2022.10.22-23.04.22:997][638]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2022.10.22-23.04.22:997][638]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/NewWidgetBlueprint.NewWidgetBlueprint
+[2022.10.22-23.04.28:030][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.10.22-23.04.28:114][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.22-23.04.37:095][449]LogContentBrowser: Attempting asset rename: StackedBarWidget_2 -> StackedVialWidget
+[2022.10.22-23.04.37:156][449]LogMetaData: Removing '/Game/UI/Widgets/StackedVialWidget.SKEL_StackedVialWidget_C' ref from Metadata '/Game/UI/Widgets/StackedBarWidget_2.PackageMetaData'
+[2022.10.22-23.04.37:156][449]LogMetaData: Removing '/Game/UI/Widgets/StackedVialWidget.StackedVialWidget_C' ref from Metadata '/Game/UI/Widgets/StackedBarWidget_2.PackageMetaData'
+[2022.10.22-23.04.37:156][449]LogMetaData: Removing '/Game/UI/Widgets/StackedVialWidget.SKEL_StackedVialWidget_C:PreConstruct' ref from Metadata '/Game/UI/Widgets/StackedBarWidget_2.PackageMetaData'
+[2022.10.22-23.04.37:156][449]LogMetaData: Removing '/Game/UI/Widgets/StackedVialWidget.StackedVialWidget_C:PreConstruct' ref from Metadata '/Game/UI/Widgets/StackedBarWidget_2.PackageMetaData'
+[2022.10.22-23.04.37:222][449]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedVialWidget
+[2022.10.22-23.04.37:222][449]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedVialWidgetE09AF8DF400DC7E1EFA1E7B50374A3DA.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedVialWidget.uasset'
+[2022.10.22-23.04.37:320][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.10.22-23.04.37:384][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.22-23.04.37:446][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-23.04.37:454][449]AssetCheck: New page: Asset Save: StackedVialWidget
+[2022.10.22-23.04.37:454][449]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.04.45:412][922]LogContentBrowser: Attempting asset rename: Pumpkin_Widget_2 -> Vial_Widget
+[2022.10.22-23.04.45:436][922]LogMetaData: Removing '/Game/UI/Widgets/Vial_Widget.SKEL_Vial_Widget_C' ref from Metadata '/Game/UI/Widgets/Pumpkin_Widget_2.PackageMetaData'
+[2022.10.22-23.04.45:436][922]LogMetaData: Removing '/Game/UI/Widgets/Vial_Widget.Vial_Widget_C' ref from Metadata '/Game/UI/Widgets/Pumpkin_Widget_2.PackageMetaData'
+[2022.10.22-23.04.45:436][922]LogMetaData: Removing '/Game/UI/Widgets/Vial_Widget.SKEL_Vial_Widget_C:PreConstruct' ref from Metadata '/Game/UI/Widgets/Pumpkin_Widget_2.PackageMetaData'
+[2022.10.22-23.04.45:436][922]LogMetaData: Removing '/Game/UI/Widgets/Vial_Widget.SKEL_Vial_Widget_C:Construct' ref from Metadata '/Game/UI/Widgets/Pumpkin_Widget_2.PackageMetaData'
+[2022.10.22-23.04.45:436][922]LogMetaData: Removing '/Game/UI/Widgets/Vial_Widget.SKEL_Vial_Widget_C:Tick' ref from Metadata '/Game/UI/Widgets/Pumpkin_Widget_2.PackageMetaData'
+[2022.10.22-23.04.45:499][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.04.45:503][922]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.04.45:503][922]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget6974611C400AFEC2486E20AB4BEB8D1E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.04.45:609][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.22-23.04.45:672][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.10.22-23.04.45:734][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.22-23.04.45:743][922]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.04.45:743][922]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.04.52:521][307]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.04.52:521][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-23.04.52:547][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-23.04.52:998][307]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.52:998][307]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.57:236][555]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.04.57:237][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-23.04.57:261][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-23.04.57:691][555]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.04.57:691][555]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.05.27:684][332]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.05.27:684][332]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.05.30:450][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.05.30:450][495]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-23.05.44:705][346]BlueprintLog: New page: Compile StackedVialWidget
+[2022.10.22-23.05.44:834][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.22-23.05.44:908][346]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedVialWidget
+[2022.10.22-23.05.44:910][346]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedVialWidget9576531045B5AF83AE5E2E848115EA57.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedVialWidget.uasset'
+[2022.10.22-23.05.44:931][346]AssetCheck: New page: Asset Save: StackedVialWidget
+[2022.10.22-23.05.44:931][346]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.05.45:335][363]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedVialWidget
+[2022.10.22-23.05.45:337][363]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedVialWidget0331F80F4D7D4D803BB0E3B0040DB00F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedVialWidget.uasset'
+[2022.10.22-23.05.45:365][363]AssetCheck: New page: Asset Save: StackedVialWidget
+[2022.10.22-23.05.45:365][363]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.06.08:626][761]BlueprintLog: New page: Compile StackedVialWidget
+[2022.10.22-23.06.08:786][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.22-23.06.08:855][761]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedVialWidget
+[2022.10.22-23.06.08:857][761]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedVialWidget067A086447E9D979634358BC038AA493.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedVialWidget.uasset'
+[2022.10.22-23.06.08:881][761]AssetCheck: New page: Asset Save: StackedVialWidget
+[2022.10.22-23.06.08:881][761]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.06.09:387][783]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedVialWidget
+[2022.10.22-23.06.09:389][783]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedVialWidget718CB59B49A02527F871CAABA3759D0D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedVialWidget.uasset'
+[2022.10.22-23.06.09:415][783]AssetCheck: New page: Asset Save: StackedVialWidget
+[2022.10.22-23.06.09:415][783]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedVialWidget.StackedVialWidget
+[2022.10.22-23.06.35:221][310]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Hud/UX/HUD_soulmeter.HUD_soulmeter
+[2022.10.22-23.06.35:222][310]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.22-23.06.35:309][310]LogViewport: Scene viewport resized to 1376x938, mode Windowed.
+[2022.10.22-23.06.54:459][451]BlueprintLog: New page: Compile Vial_Widget
+[2022.10.22-23.06.54:555][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.10.22-23.06.54:618][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.06.54:623][451]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.06.54:624][451]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget2CCD7D294C98AC44A69524B03938BE48.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.06.54:648][451]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.06.54:648][451]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.06.55:098][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.06.55:102][472]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.06.55:103][472]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget4C771AF34F9B639CF97F1E9F2330B973.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.06.55:132][472]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.06.55:132][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.08.18:672][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.22-23.08.18:676][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.085
+[2022.10.22-23.08.18:676][ 48]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/HUD_Widget] ([2] browsable assets)...
+[2022.10.22-23.08.18:680][ 48]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget]
+[2022.10.22-23.08.18:680][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/HUD_Widget]
+[2022.10.22-23.08.18:687][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/HUD_Widget_Auto6
+[2022.10.22-23.08.18:687][ 48]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget_Auto6562EE79649137D413D1F1CAA55DE7608.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/UI/Widgets/HUD_Widget_Auto6.uasset'
+[2022.10.22-23.08.18:690][ 48]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.10.22-23.08.31:611][825]BlueprintLog: New page: Compile Vial_Widget
+[2022.10.22-23.08.31:776][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.10.22-23.08.31:885][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.08.31:889][825]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.08.31:891][825]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_WidgetC918A71243160B9D6221A3AD708C52DD.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.08.31:919][825]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.08.31:919][825]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.08.32:318][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.08.32:322][841]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.08.32:324][841]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget3479F8B94C8C5E221D913F869BC4DF0A.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.08.32:349][841]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.08.32:350][841]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.09.16:939][562]BlueprintLog: New page: Compile Vial_Widget
+[2022.10.22-23.09.17:116][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.22-23.09.17:218][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.22-23.09.17:222][562]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.22-23.09.17:223][562]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget9242CC28423FC6CF24B09F93DB3328AE.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.22-23.09.17:253][562]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.22-23.09.17:253][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.22-23.10.15:861][943]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Hud/UX/HUD_soulmeter.HUD_soulmeter
+[2022.10.22-23.10.15:861][943]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.22-23.10.15:946][943]LogViewport: Scene viewport resized to 1376x938, mode Windowed.
+[2022.10.22-23.11.09:297][141]LogEditorTransaction: Undo Edit Height Override
+[2022.10.22-23.11.09:383][141]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 534B309B3A3CCD0F96394CDF7DA1218811F9BAE8), compiling. 
+[2022.10.22-23.11.09:488][141]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.22-23.11.09:488][141]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.10.22-23.11.09:488][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.22-23.11.09:488][141]MaterialEditorStats: Shader Count: 0
+[2022.10.22-23.11.09:644][143]LogEditorTransaction: Undo Edit Width Override
+[2022.10.22-23.11.09:705][143]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 52590FDCE516C992435C57BD2929370E8F5ED40B), compiling. 
+[2022.10.22-23.11.10:033][154]LogEditorTransaction: Undo Edit Condition Changed
+[2022.10.22-23.11.10:094][154]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 35E7D870E1328EA08FA2FB5B17ECCA60E51A2280), compiling. 
+[2022.10.22-23.11.11:247][219]LogEditorTransaction: Redo Edit Condition Changed
+[2022.10.22-23.11.11:309][219]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 4E6D526B575E83E4C98C1269AAAC43C106344C22), compiling. 
+[2022.10.22-23.11.12:159][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-23.11.12:166][261]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-23.11.12:168][261]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_WidgetD56500F14BC43D9FE92A728638254AC1.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-23.11.12:187][261]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-23.11.12:187][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-23.11.14:108][378]BlueprintLog: New page: Compile HUD_Widget
+[2022.10.22-23.11.14:230][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.10.22-23.11.18:154][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-23.11.18:161][601]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-23.11.18:163][601]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget696C61AC4D13BF592546AE8F86514E18.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-23.11.18:185][601]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-23.11.18:185][601]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-23.12.14:845][613]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Hud/UX/hudLantern.hudLantern
+[2022.10.22-23.12.14:845][613]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.22-23.12.14:933][613]LogViewport: Scene viewport resized to 1376x938, mode Windowed.
+[2022.10.22-23.13.29:832][564]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.22-23.13.29:905][564]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: F59648A684F5E689FFFE949C51FD516C4C9E56C1), compiling. 
+[2022.10.22-23.14.39:366][598]LogEditorTransaction: Undo Edit Height Override
+[2022.10.22-23.14.39:429][598]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 416197800B5B76B92FB76D30135F052B98F79E9D), compiling. 
+[2022.10.22-23.14.57:710][645]LogDerivedDataCache: C:/Users/Nenmar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.134 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.22-23.15.12:650][503]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.22-23.15.12:722][503]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 26BF3014CB6047C616AFE2BFA52AEF593A9C0D98), compiling. 
+[2022.10.22-23.15.15:660][623]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.22-23.15.15:734][623]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 6626FE02717EF99510D662D4A5E43EDE3872AEA4), compiling. 
+[2022.10.22-23.15.31:450][558]LogEditorTransaction: Undo Resize Widget
+[2022.10.22-23.15.31:508][558]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 90AB1D189B02A39308D239E4C2649E5DFB508835), compiling. 
+[2022.10.22-23.15.54:265][883]LogEditorTransaction: Undo Set Vector Property
+[2022.10.22-23.15.54:326][883]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: DB69A78088D31316C41B40A02BA58110B8312E23), compiling. 
+[2022.10.22-23.16.12:584][956]LogEditorTransaction: Undo Set Vector Property
+[2022.10.22-23.16.12:646][956]LogMaterial: Display: Missing cached shadermap for Preview:M_StackedPumpkinProgBar in PCD3D_SM5, Default, SM5 (DDC key hash: 6642307124BD54B3FB6016B11EC9CF44115C296C), compiling. 
+[2022.10.22-23.16.20:783][422]BlueprintLog: New page: Compile HUD_Widget
+[2022.10.22-23.16.20:907][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.22-23.16.20:977][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-23.16.20:985][422]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-23.16.20:986][422]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_Widget83AAA1F242032C9A0A05189A3E5EBF7F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-23.16.21:006][422]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-23.16.21:006][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
+[2022.10.22-23.16.21:472][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/HUD_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset" SILENT=true
+[2022.10.22-23.16.21:479][444]LogSavePackage: Moving output files for package: /Game/UI/Widgets/HUD_Widget
+[2022.10.22-23.16.21:481][444]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/HUD_WidgetDA6BEEEA49F01221B868B1B3E004311F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/HUD_Widget.uasset'
+[2022.10.22-23.16.21:505][444]AssetCheck: New page: Asset Save: HUD_Widget
+[2022.10.22-23.16.21:505][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/HUD_Widget.HUD_Widget
