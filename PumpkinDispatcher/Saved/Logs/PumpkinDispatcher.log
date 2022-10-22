@@ -3661,3 +3661,205 @@ Continuing with the rename may require changes to fix references in code or proj
 [2022.10.22-01.35.35:251][512]LogContentValidation: Display: Validating StaticMesh /Game/Levels/Halloween_Pumpkins/OtherThings/SM_Yellow_02_Tall_01.SM_Yellow_02_Tall_01
 [2022.10.22-01.35.35:251][512]LogContentValidation: Display: Validating StaticMesh /Game/Levels/Halloween_Pumpkins/OtherThings/SM_Yellow_02_Tall_02.SM_Yellow_02_Tall_02
 [2022.10.22-01.35.35:251][512]LogContentValidation: Display: Validating StaticMesh /Game/Levels/Halloween_Pumpkins/OtherThings/SM_Yellow_02_Tall_04.SM_Yellow_02_Tall_04
+[2022.10.22-01.38.57:737][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.22-01.38.57:817][537]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2022.10.22-01.38.57:817][537]Cmd: MAP LOAD FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-01.38.57:817][537]LightingResults: New page: Lighting Build
+[2022.10.22-01.38.57:817][537]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.10.22-01.38.57:819][537]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.38.57:819][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.38.57:821][537]MapCheck: New page: Map Check
+[2022.10.22-01.38.57:821][537]LightingResults: New page: Lighting Build
+[2022.10.22-01.38.57:838][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-01.38.57:840][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.22-01.38.57:842][537]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.38.57:842][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.38.57:860][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.22-01.38.57:877][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.22-01.38.57:879][537]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.10.22-01.38.57:879][537]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-01.38.57:879][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.38.57:879][537]LogAIModule: Creating AISystem for world MainMenu
+[2022.10.22-01.38.57:880][537]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-01.38.57:897][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.22-01.38.57:901][537]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-01.38.57:901][537]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2022.10.22-01.38.57:901][537]LogFileHelpers: Loading map 'MainMenu' took 0.084
+[2022.10.22-01.38.57:913][537]LogViewport: Scene viewport resized to 2467x1161, mode Windowed.
+[2022.10.22-01.39.01:750][747]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-01.39.01:775][747]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-01.39.01:782][748]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-01.39.05:344][962]LogContentBrowser: Attempting asset rename: NewFolder -> MainMenu
+[2022.10.22-01.39.05:345][962]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-01.39.07:996][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.10.22-01.39.07:999][109]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MainMenu
+[2022.10.22-01.39.07:999][109]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MainMenu4143097F49DFADAB6255789B8CA83AA4.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap'
+[2022.10.22-01.39.08:003][109]LogFileHelpers: Saving map 'MainMenu' took 0.026
+[2022.10.22-01.39.08:032][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.22-01.39.08:048][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.22-01.39.08:064][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.22-01.39.08:096][109]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.22-01.39.08:096][109]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.22-01.39.12:299][333]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-01.39.13:897][333]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.10.22-01.39.13:923][333]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.10.22-01.39.13:926][333]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.10.22-01.39.13:937][334]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.10.22-01.39.16:917][513]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Menu
+[2022.10.22-01.39.16:926][513]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.10.22-01.39.19:540][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.22-01.39.21:070][668]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-01.39.21:159][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/Menu" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset" SILENT=true
+[2022.10.22-01.39.21:163][668]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Menu
+[2022.10.22-01.39.21:163][668]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Menu8E03249E4D6E27A6B607388D7DE96CE2.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset'
+[2022.10.22-01.39.21:179][668]AssetCheck: New page: Asset Save: Menu
+[2022.10.22-01.39.21:179][668]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu
+[2022.10.22-01.39.23:780][819]LogSlate: Took 0.000510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-01.39.25:383][900]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.10.22-01.39.25:383][900]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.39.35:288][450]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-01.39.45:638][ 56]BlueprintLog: New page: Compile MainMenu
+[2022.10.22-01.39.45:668][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.22-01.39.47:699][177]LogSlate: Window 'MainMenu' being destroyed
+[2022.10.22-01.39.47:705][177]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.39.47:706][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.39.54:102][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.22-01.39.55:638][557]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-01.39.55:741][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.22-01.39.55:745][557]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MainMenu
+[2022.10.22-01.39.55:746][557]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MainMenu9FB030B94CD6ED1BF7C749BFF0D716AB.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap'
+[2022.10.22-01.39.55:751][557]LogFileHelpers: Saving map 'MainMenu' took 0.032
+[2022.10.22-01.39.55:763][557]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.22-01.39.55:763][557]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.22-01.39.57:311][650]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu
+[2022.10.22-01.39.57:312][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.39.57:319][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.39.57:327][650]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.10.22-01.39.57:689][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.39.57:689][650]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.39.57:806][650]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.10.22-01.40.29:572][515]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.22-01.41.00:986][363]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.10.22-01.41.20:670][526]LogEditorTransaction: Undo Reset to Default
+[2022.10.22-01.41.57:607][251]LogEditorTransaction: Undo Edit Left
+[2022.10.22-01.49.12:805][514]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (HyperX QuadCast S), InstanceID=1
+[2022.10.22-01.49.12:805][514]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23140
+[2022.10.22-01.49.13:135][514]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{24788886-8374-4ff9-9523-2ae85eebc94c}, Name=Speakers (HyperX QuadCast S)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=29.66
+[2022.10.22-01.49.13:135][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.22-01.49.13:142][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.22-01.49.54:545][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.22-01.49.54:548][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu/MainMenu' took 0.062
+[2022.10.22-01.49.54:549][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Levels/MainMenu/Menu] ([2] browsable assets)...
+[2022.10.22-01.49.54:552][637]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu]
+[2022.10.22-01.49.54:552][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/MainMenu/Menu]
+[2022.10.22-01.49.54:554][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainMenu/Menu_Auto1
+[2022.10.22-01.49.54:554][637]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Menu_Auto1A10777B44388F027181F3DB974490AF8.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Levels/MainMenu/Menu_Auto1.uasset'
+[2022.10.22-01.49.54:555][637]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.22-01.50.34:416][965]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-01.50.46:621][689]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.22-01.50.59:954][489]BlueprintLog: New page: Compile Menu
+[2022.10.22-01.51.00:003][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.22-01.51.00:089][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/Menu" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset" SILENT=true
+[2022.10.22-01.51.00:092][489]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Menu
+[2022.10.22-01.51.00:093][489]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Menu4C72B7EA4DC327F835EA3798E3C12828.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset'
+[2022.10.22-01.51.00:106][489]AssetCheck: New page: Asset Save: Menu
+[2022.10.22-01.51.00:106][489]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu
+[2022.10.22-01.51.08:566][981]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.51.08:566][981]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.51.22:800][818]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.51.22:800][818]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.51.54:140][659]BlueprintLog: New page: Compile Menu
+[2022.10.22-01.51.54:185][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.22-01.51.54:264][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/Menu" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset" SILENT=true
+[2022.10.22-01.51.54:267][659]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Menu
+[2022.10.22-01.51.54:268][659]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MenuEFE86B764622956E692141BE0CCBC527.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset'
+[2022.10.22-01.51.54:281][659]AssetCheck: New page: Asset Save: Menu
+[2022.10.22-01.51.54:281][659]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu
+[2022.10.22-01.51.56:163][760]LogSlate: Window 'Menu' being destroyed
+[2022.10.22-01.52.02:737][120]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-01.52.09:015][480]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.10.22-01.52.09:015][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.52.28:696][565]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.10.22-01.52.28:704][565]LogContentBrowser: Creating deferred item: NewInterface
+[2022.10.22-01.52.28:715][566]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2022.10.22-01.52.37:156][ 71]LogContentBrowser: Attempting asset rename: NewInterface -> MenuInterface
+[2022.10.22-01.52.37:160][ 71]LogContentBrowser: End creating deferred item NewInterface
+[2022.10.22-01.52.39:521][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.22-01.52.41:519][206]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-01.52.41:603][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/MenuInterface" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset" SILENT=true
+[2022.10.22-01.52.41:604][206]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MenuInterface
+[2022.10.22-01.52.41:604][206]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MenuInterface10E280684E1A135081DDA3B24235E99D.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset'
+[2022.10.22-01.52.41:613][206]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.22-01.52.41:613][206]Cmd: MAP LOAD FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.22-01.52.41:613][206]LightingResults: New page: Lighting Build
+[2022.10.22-01.52.41:613][206]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.10.22-01.52.41:632][206]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.52.41:632][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.52.41:671][206]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.52.41:672][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.52.41:672][206]MapCheck: New page: Map Check
+[2022.10.22-01.52.41:672][206]LightingResults: New page: Lighting Build
+[2022.10.22-01.52.41:700][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-01.52.41:706][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.22-01.52.41:716][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.10.22-01.52.41:716][206]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.22-01.52.41:716][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.52.41:716][206]LogAIModule: Creating AISystem for world MainMenu
+[2022.10.22-01.52.41:717][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-01.52.41:749][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.22-01.52.41:753][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-01.52.41:753][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.101ms to complete.
+[2022.10.22-01.52.41:753][206]LogFileHelpers: Loading map 'MainMenu' took 0.140
+[2022.10.22-01.52.41:762][206]AssetCheck: New page: Asset Save: MenuInterface
+[2022.10.22-01.52.41:762][206]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/MenuInterface.MenuInterface
+[2022.10.22-01.52.52:533][815]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.10.22-01.52.52:533][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.52.59:978][240]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-01.53.19:181][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Levels/MainMenu/MenuInterface.MenuInterface
+[2022.10.22-01.53.19:181][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-01.53.26:772][821]BlueprintLog: New page: Compile MenuInterface
+[2022.10.22-01.53.26:813][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.22-01.53.26:883][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/MenuInterface" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset" SILENT=true
+[2022.10.22-01.53.26:885][821]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MenuInterface
+[2022.10.22-01.53.26:885][821]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MenuInterface5D96E7FB4943888B66797E890298EF0D.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset'
+[2022.10.22-01.53.26:900][821]AssetCheck: New page: Asset Save: MenuInterface
+[2022.10.22-01.53.26:900][821]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/MenuInterface.MenuInterface
+[2022.10.22-01.53.37:583][445]BlueprintLog: New page: Compile MainMenu
+[2022.10.22-01.53.37:631][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.22-01.53.37:748][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.22-01.53.37:752][445]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MainMenu
+[2022.10.22-01.53.37:753][445]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MainMenu035B551D4B6DD2A63815BDB5505544F2.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap'
+[2022.10.22-01.53.37:756][445]LogFileHelpers: Saving map 'MainMenu' took 0.042
+[2022.10.22-01.53.37:769][445]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.22-01.53.37:769][445]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.22-01.53.40:765][624]BlueprintLog: New page: Compile MenuInterface
+[2022.10.22-01.53.40:799][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.22-01.53.56:782][578]BlueprintLog: New page: Compile MenuInterface
+[2022.10.22-01.53.56:818][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.22-01.53.56:901][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/MenuInterface" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset" SILENT=true
+[2022.10.22-01.53.56:903][578]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MenuInterface
+[2022.10.22-01.53.56:903][578]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MenuInterface7F68F6E54E922559C1FF289514B2BA67.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MenuInterface.uasset'
+[2022.10.22-01.53.56:917][578]AssetCheck: New page: Asset Save: MenuInterface
+[2022.10.22-01.53.56:917][578]LogContentValidation: Display: Validating Blueprint /Game/Levels/MainMenu/MenuInterface.MenuInterface
+[2022.10.22-01.54.19:638][925]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-01.54.19:638][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-01.54.26:890][359]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.54.26:890][359]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.54.57:022][124]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-01.59.30:593][227]BlueprintLog: New page: Compile Menu
+[2022.10.22-01.59.30:646][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.22-01.59.30:748][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenu/Menu" FILE="../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset" SILENT=true
+[2022.10.22-01.59.30:752][227]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/Menu
+[2022.10.22-01.59.30:752][227]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Menu5656D0754187A5D929D35A86969E7DBE.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/Menu.uasset'
+[2022.10.22-01.59.30:765][227]AssetCheck: New page: Asset Save: Menu
+[2022.10.22-01.59.30:765][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/Levels/MainMenu/Menu.Menu
+[2022.10.22-01.59.44:225][ 27]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-01.59.44:225][ 27]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.22-02.00.06:329][334]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.10.22-02.00.06:333][334]LogSlate: Window 'Widget Reflector' being destroyed
+[2022.10.22-02.03.38:042][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.22-02.03.38:049][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainMenu/MainMenu_Auto2
+[2022.10.22-02.03.38:049][233]LogSavePackage: Moving '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/MainMenu_Auto2C32DC2DA49D50D1A413BE2B77E1E560A.tmp' to '../../../../../../Game Jamss/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Levels/MainMenu/MainMenu_Auto2.umap'
+[2022.10.22-02.03.38:055][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenu/MainMenu' took 0.051
+[2022.10.22-02.03.38:055][233]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2022.10.22-02.06.05:569][ 15]LogDerivedDataCache: C:/Users/notth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.715 and deleted 0 file(s) with total size 0 MiB.
