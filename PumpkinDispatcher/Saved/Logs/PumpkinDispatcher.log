@@ -1038,3 +1038,78 @@ Recommended: 516.25
 [2022.10.22-14.51.08:978][580]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/hudLantern4FA01B3E449ADB43E5710EB6A5353822.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Hud/UX/hudLantern.uasset'
 [2022.10.22-14.51.08:990][580]AssetCheck: New page: Asset Save: hudLantern
 [2022.10.22-14.51.08:990][580]LogContentValidation: Display: Validating Texture2D /Game/UI/Hud/UX/hudLantern.hudLantern
+[2022.10.22-14.52.23:847][515]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-14.52.23:866][515]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-14.52.23:875][516]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-14.52.31:924][  2]LogContentBrowser: Attempting asset rename: NewFolder -> GameObjects
+[2022.10.22-14.52.31:924][  2]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-14.52.35:337][202]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.22-14.52.35:350][202]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.22-14.52.35:367][204]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.22-14.52.42:507][634]LogContentBrowser: Attempting asset rename: NewFolder -> Pumpkin
+[2022.10.22-14.52.42:508][634]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.22-14.56.04:320][739]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-14.56.06:219][739]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.22-14.56.06:244][739]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.22-14.56.06:249][739]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.22-14.56.06:268][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.22-14.56.09:709][949]LogContentBrowser: Attempting asset rename: NewBlueprint -> Pumpkin
+[2022.10.22-14.56.09:715][949]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.22-14.56.20:884][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-14.56.20:885][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.22-14.56.22:858][ 87]LogViewport: Scene viewport resized to 714x539, mode Windowed.
+[2022.10.22-14.56.24:801][176]LogViewport: Scene viewport resized to 712x562, mode Windowed.
+[2022.10.22-14.56.24:880][178]LogViewport: Scene viewport resized to 1103x917, mode Windowed.
+[2022.10.22-14.56.24:984][179]LogViewport: Scene viewport resized to 1101x940, mode Windowed.
+[2022.10.22-14.56.25:108][181]LogViewport: Scene viewport resized to 467x326, mode Windowed.
+[2022.10.22-14.56.25:191][184]LogViewport: Scene viewport resized to 1103x917, mode Windowed.
+[2022.10.22-14.56.25:537][206]LogSlate: Window 'Pumpkin' being destroyed
+[2022.10.22-14.56.27:682][330]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-14.56.27:682][330]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin0250F7A54AEE3DAC648CA9A7AA089CAB.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-14.56.27:711][330]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-14.56.27:711][330]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-14.58.21:365][621]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-14.58.23:383][736]LogMaterial: Display: Missing cached shadermap for M_Base in PCD3D_SM5, Default, SM5 (DDC key hash: BCC5EDFB98924B9E6FFAB36344AE97CD3437DE2A), compiling. 
+[2022.10.22-14.58.23:723][736]LogTexture: Display: Building textures: /Game/Levels/Halloween_Pumpkins/Textures/T_Pumpkin_Carved_00_E.T_Pumpkin_Carved_00_E (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-14.58.24:577][736]LogTexture: Display: Building textures: /Game/Levels/Halloween_Pumpkins/Textures/T_Pumpkin_00_N.T_Pumpkin_00_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-14.58.24:577][736]LogTexture: Display: Building textures: /Game/Levels/Halloween_Pumpkins/Textures/T_Pumpkin_00_AO_R_MT.T_Pumpkin_00_AO_R_MT (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-14.58.24:577][736]LogTexture: Display: Building textures: /Game/Levels/Halloween_Pumpkins/Textures/T_Pumpkin_00_BC.T_Pumpkin_00_BC (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-14.58.24:578][736]LogTexture: Display: Building textures: /Game/Levels/Halloween_Pumpkins/Textures/T_Pumpkin_00_T.T_Pumpkin_00_T (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: ================================================
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: Shaders Compiled: 25
+[2022.10.22-14.58.27:847][880]LogShaderCompilers: Display: Jobs assigned 25, completed 1 (4.00%)
+[2022.10.22-14.58.27:851][880]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Job execution time: average 4.24 s, max 4.24 s
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Job life time (pending + execution): average 4.26 s, max 4.26
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.26 s
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 3.57 jobs/batch
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Average processing rate: 0.23 jobs/sec
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Effective parallelization: 0.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 1.77 sec, max 1.77 sec, min 1.77 sec)
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ - 100.00% of total time (compiled    1 times, average 1.77 sec, max 1.77 sec, min 1.77 sec)
+[2022.10.22-14.58.27:852][880]LogShaderCompilers: Display: ================================================
+[2022.10.22-14.59.13:839][321]BlueprintLog: New page: Compile Pumpkin
+[2022.10.22-14.59.14:001][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.10.22-14.59.14:108][321]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-14.59.14:109][321]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinFCC7A9A248789D872F078B8D030738F5.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-14.59.14:126][321]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-14.59.14:126][321]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-14.59.14:916][364]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-14.59.14:918][364]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin6E63700747FA469D9154E0A8AC47E1E7.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-14.59.14:947][364]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-14.59.14:947][364]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-15.01.57:904][962]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-15.01.57:905][962]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin91CD881B4247F0302D5D899494189319.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-15.01.57:934][962]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-15.01.57:934][962]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
+[2022.10.22-15.01.58:736][  9]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/Pumpkin
+[2022.10.22-15.01.58:738][  9]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinEB483C174FB42D38D23FFF85B268DC1D.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/Pumpkin.uasset'
+[2022.10.22-15.01.58:766][  9]AssetCheck: New page: Asset Save: Pumpkin
+[2022.10.22-15.01.58:766][  9]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/Pumpkin.Pumpkin
