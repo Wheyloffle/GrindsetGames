@@ -24352,3 +24352,25 @@ Recommended: 516.25
 [2022.10.23-06.23.35:177][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2022.10.23-06.23.35:189][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2022.10.23-06.23.35:232][764]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.10.23-06.24.53:781][755]LogEditorTransaction: Undo Add Node
+[2022.10.23-06.24.54:036][759]LogEditorTransaction: Undo Delete current selection
+[2022.10.23-06.25.19:724][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.10.23-06.25.19:729][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.100
+[2022.10.23-06.25.19:730][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/Vial_Widget] ([2] browsable assets)...
+[2022.10.23-06.25.19:733][903]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget]
+[2022.10.23-06.25.19:734][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/Vial_Widget]
+[2022.10.23-06.25.19:741][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/Vial_Widget_Auto1
+[2022.10.23-06.25.19:741][903]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget_Auto1532166474DEE64FC4548A58E624171A9.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/UI/Widgets/Vial_Widget_Auto1.uasset'
+[2022.10.23-06.25.19:743][903]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.10.23-06.25.32:242][388]BlueprintLog: New page: Compile Vial_Widget
+[2022.10.23-06.25.32:425][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.23-06.25.32:591][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.23-06.25.32:598][388]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.23-06.25.32:600][388]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_WidgetBF4F24A544056D796CDBFC983BFA94BE.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.23-06.25.32:628][388]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.23-06.25.32:628][388]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.23-06.25.33:152][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/Vial_Widget" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset" SILENT=true
+[2022.10.23-06.25.33:159][413]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Vial_Widget
+[2022.10.23-06.25.33:161][413]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Vial_Widget6C7405574DBE0FFF3B958A976D18D120.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Vial_Widget.uasset'
+[2022.10.23-06.25.33:187][413]AssetCheck: New page: Asset Save: Vial_Widget
+[2022.10.23-06.25.33:187][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
