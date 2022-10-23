@@ -1389,3 +1389,62 @@ TaskGetPatrolLocation_C.ReceiveExecuteAI
 [2022.10.23-16.06.11:897][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.23-16.06.11:904][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2022.10.23-16.06.11:994][547]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.23-16.07.14:620][732]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObject/EnemySpawner/BP_EnemySpawner.BP_EnemySpawner
+[2022.10.23-16.07.14:621][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-16.08.28:288][113]LogSavePackage: Moving output files for package: /Game/Audio/Additional/LocalSound
+[2022.10.23-16.08.28:290][113]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/LocalSound14240E494DD70EAC9792F0A5EAD2F49C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Additional/LocalSound.uasset'
+[2022.10.23-16.08.28:321][113]AssetCheck: New page: Asset Save: LocalSound
+[2022.10.23-16.08.28:321][113]LogContentValidation: Display: Validating SoundAttenuation /Game/Audio/Additional/LocalSound.LocalSound
+[2022.10.23-16.08.29:634][176]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-16.08.29:646][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-16.08.29:646][176]PIE: New page: PIE session: PumpkinTesting (Oct 23, 2022, 4:08:29 AM)
+[2022.10.23-16.08.29:646][176]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.23-16.08.29:678][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032120s)
+[2022.10.23-16.08.29:678][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.032220s)
+[2022.10.23-16.08.29:679][176]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-16.08.29:679][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-16.08.29:679][176]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.23-16.08.29:679][176]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2022.10.23-16.08.29:739][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.23-16.08.29:740][176]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-16.08.29:740][176]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-16.08.29:741][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-16.08.29:741][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-16.08.29:741][176]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-16.08.29:741][176]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-16.08.29:741][176]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-16.08.29:744][176]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-16.08.29:783][176]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-16.08.29:784][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-16.08.29:784][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-16.08.29:784][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-16.08.29:785][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.10.23-16.08.29:785][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.10.23-16.08.29:787][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.10.23-16.08.29:787][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.10.23-16.08.29:787][176]LogInit: FAudioDevice initialized.
+[2022.10.23-16.08.29:787][176]LogAudio: Display: Audio Device (ID: 9) registered with world 'PumpkinTesting'.
+[2022.10.23-16.08.29:805][176]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-16.08.29:822][176]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.23-10.08.29
+[2022.10.23-16.08.29:825][176]LogWorld: Bringing up level for play took: 0.019610
+[2022.10.23-16.08.29:828][176]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.10.23-16.08.29:833][176]PIE: Server logged in
+[2022.10.23-16.08.29:834][176]PIE: Play in editor total start time 0.192 seconds.
+[2022.10.23-16.08.43:432][984]LogScript: Warning: UGameplayStatics::SpawnSoundAttached: NULL AttachComponent specified! Trying to spawn sound [SC_EatLoop],
+[2022.10.23-16.08.57:811][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-16.08.57:811][844]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.23-16.08.57:811][844]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-16.08.57:813][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-16.08.57:831][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-16.08.57:840][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-16.08.57:897][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-16.08.57:898][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.23-16.08.57:899][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.23-16.08.57:904][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-16.08.57:910][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.23-16.08.58:007][845]LogPlayLevel: Display: Destroying online subsystem :Context_14
