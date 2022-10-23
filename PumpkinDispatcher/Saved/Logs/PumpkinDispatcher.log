@@ -1403,3 +1403,269 @@ TaskGetPatrolLocation_C.ReceiveExecuteAI
 [2022.10.23-17.05.11:061][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2022.10.23-17.05.11:073][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
 [2022.10.23-17.05.11:119][470]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.10.23-17.08.27:228][733]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.10.23-17.08.37:433][255]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.23-17.08.37:457][255]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.23-17.08.37:471][256]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.23-17.08.41:798][519]LogContentBrowser: Attempting asset rename: NewFolder -> ThirdParty
+[2022.10.23-17.08.41:798][519]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.23-17.09.11:470][857]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:\Nenmar\Pictures\Crouching Idle.fbx)
+[2022.10.23-17.09.11:630][857]LogFbx: Loading FBX Scene from H:\Nenmar\Pictures\Crouching Idle.fbx
+[2022.10.23-17.09.11:767][857]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.23-17.09.14:174][857]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.23-17.09.14:272][857]LogFbx: Valid bind pose for Pose (skinCluster1) - Beta_Surface
+[2022.10.23-17.09.14:272][857]LogFbx: Valid bind pose for Pose (skinCluster2) - Beta_Surface
+[2022.10.23-17.09.14:288][857]LogMaterial: Display: Material /Game/Characters/Mannequins/Animations/ThirdParty/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.23-17.09.14:292][857]LogMaterial: Display: Missing cached shadermap for Beta_HighLimbsGeoSG3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1536B9B6120EFBB68C74279504BBFC1A63FC4D45), compiling. 
+[2022.10.23-17.09.14:470][857]LogMaterial: Display: Missing cached shadermap for Beta_HighLimbsGeoSG3 in PCD3D_SM5, Default, SM5 (DDC key hash: 23F1412E4D6F099F29A09CF8516CDBDC8017B529), compiling. 
+[2022.10.23-17.09.14:477][857]LogFbx: Triangulating skeletal mesh Beta_Surface
+[2022.10.23-17.09.15:021][857]LogMaterial: Display: Material /Game/Characters/Mannequins/Animations/ThirdParty/Beta_Joints_MAT1.Beta_Joints_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.23-17.09.15:027][857]LogMaterial: Display: Missing cached shadermap for Beta_Joints_MAT1 in PCD3D_SM5, Default, SM5 (DDC key hash: F2D861CDCFA03C613AA1A4B6304009FFAFE0D08A), compiling. 
+[2022.10.23-17.09.15:077][857]LogMaterial: Display: Missing cached shadermap for Beta_Joints_MAT1 in PCD3D_SM5, Default, SM5 (DDC key hash: 815DA7D386E8E349169CB20DDAF213B59D12543C), compiling. 
+[2022.10.23-17.09.15:083][857]LogFbx: Triangulating skeletal mesh Beta_Joints
+[2022.10.23-17.09.15:530][857]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2022.10.23-17.09.17:011][857]LogSkeletalMesh: Section 0: Material=0, 28272 triangles
+[2022.10.23-17.09.17:011][857]LogSkeletalMesh: Section 1: Material=1, 20840 triangles
+[2022.10.23-17.09.17:040][857]LogSkeletalMesh: Building Skeletal Mesh Crouching_Idle...
+[2022.10.23-17.09.17:040][857]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Crouching_Idle) ...
+[2022.10.23-17.09.18:423][857]LogSkeletalMesh: Built Skeletal Mesh [1.37s] /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle.Crouching_Idle
+[2022.10.23-17.09.18:424][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.09.18:471][857]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.09.18:472][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.09.18:497][857]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: ================================================
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Total job queries 68, among them cache hits 0 (0.00%)
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Shaders Compiled: 64
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Job execution time: average 1.76 s, max 1.76 s
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Job life time (pending + execution): average 1.78 s, max 1.78
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.78 s
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Average processing rate: 0.56 jobs/sec
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Effective parallelization: 0.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2022.10.23-17.09.20:535][921]LogShaderCompilers: Display: ================================================
+[2022.10.23-17.09.20:600][924]LogSlate: Window 'Message Log' being destroyed
+[2022.10.23-17.09.20:627][924]LogSlate: Window 'Message Log' being destroyed
+[2022.10.23-17.09.30:925][390]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle.Crouching_Idle
+[2022.10.23-17.09.31:019][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.09.31:339][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.23-17.09.32:350][390]LogViewport: Scene viewport resized to 1103x906, mode Windowed.
+[2022.10.23-17.09.42:889][  5]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton.Crouching_Idle_Skeleton
+[2022.10.23-17.09.42:890][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.09.42:916][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.23-17.09.43:121][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.09.43:232][  5]LogViewport: Scene viewport resized to 1103x906, mode Windowed.
+[2022.10.23-17.10.17:442][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.10.23-17.10.17:539][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting2_Auto1
+[2022.10.23-17.10.17:539][688]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/PumpkinTesting2_Auto10204F3894705A7D493E8838392C086D8.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting2_Auto1.umap'
+[2022.10.23-17.10.17:544][688]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/Levels/LevelPrototyping/PumpkinTesting2_Auto1.
+[2022.10.23-17.10.17:546][688]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototyping/PumpkinTesting2' took 0.210
+[2022.10.23-17.10.17:546][688]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.210
+[2022.10.23-17.10.17:547][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameObjects/Thief/BT_Thief] ([1] browsable assets)...
+[2022.10.23-17.10.17:547][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameObjects/Thief/BT_Thief]
+[2022.10.23-17.10.17:551][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameObjects/Thief/BT_Thief_Auto1
+[2022.10.23-17.10.17:561][688]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/BT_Thief_Auto1DB7361E84B17E45C23457296AB8F8472.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/GameObjects/Thief/BT_Thief_Auto1.uasset'
+[2022.10.23-17.10.17:564][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle] ([1] browsable assets)...
+[2022.10.23-17.10.17:609][688]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle.Crouching_Idle]
+[2022.10.23-17.10.17:609][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle]
+[2022.10.23-17.10.17:749][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Auto1
+[2022.10.23-17.10.17:749][688]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Crouching_Idle_Auto109D5742D435F6FE2107C349A260037FC.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Auto1.uasset'
+[2022.10.23-17.10.17:752][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton] ([1] browsable assets)...
+[2022.10.23-17.10.17:764][688]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton.Crouching_Idle_Skeleton]
+[2022.10.23-17.10.17:764][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton]
+[2022.10.23-17.10.17:767][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton_Auto1
+[2022.10.23-17.10.17:767][688]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Crouching_Idle_Skeleton_Auto17365E3DE4D0F3EE7FA8460989496729C.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_Skeleton_Auto1.uasset'
+[2022.10.23-17.10.17:769][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_PhysicsAsset] ([1] browsable assets)...
+[2022.10.23-17.10.17:779][688]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_PhysicsAsset.Crouching_Idle_PhysicsAsset]
+[2022.10.23-17.10.17:779][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_PhysicsAsset]
+[2022.10.23-17.10.17:784][688]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_PhysicsAsset_Auto1
+[2022.10.23-17.10.17:784][688]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Crouching_Idle_PhysicsAsset_Auto93EE024844917C36DDEAF49FB701B536.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Characters/Mannequins/Animations/ThirdParty/Crouching_Idle_PhysicsAsset_Auto1.uasset'
+[2022.10.23-17.10.17:786][688]LogFileHelpers: Auto-saving content packages took 0.240
+[2022.10.23-17.15.44:551][557]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2022.10.23-17.15.44:552][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.15.44:583][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.23-17.15.44:965][557]LogViewport: Scene viewport resized to 1103x906, mode Windowed.
+[2022.10.23-17.15.52:344][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-17.15.52:358][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-17.15.52:358][749]PIE: New page: PIE session: PumpkinTesting2 (Oct 23, 2022, 5:15:52 AM)
+[2022.10.23-17.15.52:388][749]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2
+[2022.10.23-17.15.52:419][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030848s)
+[2022.10.23-17.15.52:419][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting2.PumpkinTesting2 to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2.PumpkinTesting2 (0.031018s)
+[2022.10.23-17.15.52:419][749]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-17.15.52:419][749]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.15.52:420][749]LogAIModule: Creating AISystem for world PumpkinTesting2
+[2022.10.23-17.15.52:421][749]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2022.10.23-17.15.52:498][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.10.23-17.15.52:501][749]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-17.15.52:501][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-17.15.52:501][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-17.15.52:502][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-17.15.52:502][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-17.15.52:502][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-17.15.52:504][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-17.15.52:546][749]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-17.15.52:546][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-17.15.52:546][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-17.15.52:546][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-17.15.52:547][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.10.23-17.15.52:547][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.10.23-17.15.52:549][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.10.23-17.15.52:549][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.10.23-17.15.52:549][749]LogInit: FAudioDevice initialized.
+[2022.10.23-17.15.52:549][749]LogAudio: Display: Audio Device (ID: 11) registered with world 'PumpkinTesting2'.
+[2022.10.23-17.15.52:566][749]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-17.15.52:585][749]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2.PumpkinTesting2 up for play (max tick rate 0) at 2022.10.23-11.15.52
+[2022.10.23-17.15.52:587][749]LogWorld: Bringing up level for play took: 0.020432
+[2022.10.23-17.15.52:590][749]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.10.23-17.15.52:596][749]PIE: Server logged in
+[2022.10.23-17.15.52:597][749]PIE: Play in editor total start time 0.243 seconds.
+[2022.10.23-17.15.56:272][961]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2022.10.23-17.15.57:783][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-17.15.57:784][ 50]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2
+[2022.10.23-17.15.57:784][ 50]LogWorld: UWorld::CleanupWorld for PumpkinTesting2, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.15.57:786][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.15.57:804][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-17.15.57:815][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.15.57:876][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-17.15.57:879][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.23-17.15.57:880][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.23-17.15.57:893][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.10.23-17.15.57:946][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.10.23-17.16.20:056][135]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2022.10.23-17.16.20:056][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.16.20:083][135]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.23-17.16.20:481][135]LogViewport: Scene viewport resized to 1103x906, mode Windowed.
+[2022.10.23-17.16.22:452][251]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.16.22:452][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.16.26:519][468]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2022.10.23-17.16.26:520][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.16.26:551][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.23-17.16.27:077][468]LogViewport: Scene viewport resized to 1103x906, mode Windowed.
+[2022.10.23-17.16.28:985][578]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.16.28:986][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.16.58:562][ 34]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2022.10.23-17.16.59:763][ 34]LogStaticMesh: Display: Building static mesh StaticMeshManny...
+[2022.10.23-17.16.59:763][ 34]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/StaticMeshManny) ...
+[2022.10.23-17.17.01:670][ 34]LogStaticMesh: Built static mesh [1.79s] /Game/Meshes/StaticMeshManny.StaticMeshManny
+[2022.10.23-17.17.01:816][ 34]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/StaticMeshManny) ...
+[2022.10.23-17.17.10:248][405]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/StaticMeshManny.StaticMeshManny
+[2022.10.23-17.17.10:290][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.17.10:844][405]LogViewport: Scene viewport resized to 1359x942, mode Windowed.
+[2022.10.23-17.17.15:960][635]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-17.17.15:960][635]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-17.17.24:214][819]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-17.17.24:214][819]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-17.17.53:266][885]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.10.23-17.17.53:542][885]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.10.23-17.20.23:779][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.10.23-17.20.23:783][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelPrototyping/PumpkinTesting2' took 0.084
+[2022.10.23-17.20.23:809][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/StaticMeshManny] ([1] browsable assets)...
+[2022.10.23-17.20.23:837][704]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/StaticMeshManny.StaticMeshManny]
+[2022.10.23-17.20.23:837][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/StaticMeshManny]
+[2022.10.23-17.20.24:374][704]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/StaticMeshManny_Auto2
+[2022.10.23-17.20.24:374][704]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StaticMeshManny_Auto23700064146097E883DF438B4E8252292.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Autosaves/Game/Meshes/StaticMeshManny_Auto2.uasset'
+[2022.10.23-17.20.24:376][704]LogFileHelpers: Auto-saving content packages took 0.593
+[2022.10.23-17.23.24:296][785]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 H:\Nenmar\Pictures\Crouching Idle.fbx)
+[2022.10.23-17.23.24:307][785]LogFbx: Loading FBX Scene from H:\Nenmar\Pictures\Crouching Idle.fbx
+[2022.10.23-17.23.24:334][785]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.23-17.23.32:451][785]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.23-17.23.32:522][785]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2022.10.23-17.23.32:522][785]FBXImport: Error: Import failed. 
+[2022.10.23-17.23.35:000][785]LogSlate: Window 'Message' being destroyed
+[2022.10.23-17.23.35:022][785]Message dialog closed, result: Ok, title: Message, text: Failed to import 'H:\Nenmar\Pictures\Crouching Idle.fbx'. Failed to create asset '/Game/Meshes/Crouching_Idle'.
+Please see Output Log for details.
+[2022.10.23-17.23.35:022][785]LogAssetTools: Warning: Failed to import 'H:\Nenmar\Pictures\Crouching Idle.fbx'. Failed to create asset '/Game/Meshes/Crouching_Idle'.
+Please see Output Log for details.
+[2022.10.23-17.23.40:500][114]LogSlate: Window 'Message Log' being destroyed
+[2022.10.23-17.23.40:524][114]LogSlate: Window 'Message Log' being destroyed
+[2022.10.23-17.23.57:363][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.10.23-17.23.58:785][504]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.23-17.23.58:946][504]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.23.58:946][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.23.58:987][504]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Meshes/StaticMeshManny.StaticMeshManny
+	Asset Type: StaticMesh
+[2022.10.23-17.23.59:857][504]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.23-17.23.59:928][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.23-17.23.59:987][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.23-17.24.03:425][681]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.24.03:425][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.24.07:127][898]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.24.07:127][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.24.07:207][898]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.24.07:208][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.24.08:460][973]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.24.08:460][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.26.08:471][607]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2022.10.23-17.26.09:902][682]LogViewport: Scene viewport resized to 1475x942, mode Windowed.
+[2022.10.23-17.26.10:992][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-17.26.11:011][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-17.26.11:011][744]PIE: New page: PIE session: PumpkinTesting2 (Oct 23, 2022, 5:26:11 AM)
+[2022.10.23-17.26.11:011][744]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2
+[2022.10.23-17.26.11:045][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034173s)
+[2022.10.23-17.26.11:045][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting2.PumpkinTesting2 to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2.PumpkinTesting2 (0.034324s)
+[2022.10.23-17.26.11:045][744]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-17.26.11:045][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-17.26.11:046][744]LogAIModule: Creating AISystem for world PumpkinTesting2
+[2022.10.23-17.26.11:046][744]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.10.23-17.26.11:197][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.10.23-17.26.11:207][744]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-17.26.11:207][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-17.26.11:207][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-17.26.11:208][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-17.26.11:208][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-17.26.11:208][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-17.26.11:210][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-17.26.11:253][744]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-17.26.11:253][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-17.26.11:253][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-17.26.11:253][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-17.26.11:254][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.10.23-17.26.11:254][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.10.23-17.26.11:257][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.10.23-17.26.11:257][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.10.23-17.26.11:257][744]LogInit: FAudioDevice initialized.
+[2022.10.23-17.26.11:257][744]LogAudio: Display: Audio Device (ID: 12) registered with world 'PumpkinTesting2'.
+[2022.10.23-17.26.11:274][744]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-17.26.11:292][744]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2.PumpkinTesting2 up for play (max tick rate 0) at 2022.10.23-11.26.11
+[2022.10.23-17.26.11:294][744]LogWorld: Bringing up level for play took: 0.019589
+[2022.10.23-17.26.11:297][744]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.10.23-17.26.11:302][744]PIE: Server logged in
+[2022.10.23-17.26.11:303][744]PIE: Play in editor total start time 0.298 seconds.
+[2022.10.23-17.26.22:462][404]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2022.10.23-17.26.23:569][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-17.26.23:569][468]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting2
+[2022.10.23-17.26.23:570][468]LogWorld: UWorld::CleanupWorld for PumpkinTesting2, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-17.26.23:571][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.26.23:587][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-17.26.23:600][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-17.26.23:663][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-17.26.23:667][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.23-17.26.23:669][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.23-17.26.23:674][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-17.26.23:723][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.10.23-17.26.23:770][469]LogPlayLevel: Display: Destroying online subsystem :Context_41
