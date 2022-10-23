@@ -1880,3 +1880,310 @@ Recommended: 516.25
 [2022.10.23-13.40.26:624][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.23-13.40.26:629][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2022.10.23-13.40.26:659][805]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.10.23-13.41.12:880][927]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Nenmar\Pictures\Title_Loop.wav)
+[2022.10.23-13.41.12:980][927]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Title_Loop...
+[2022.10.23-13.41.12:987][927]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Music/Title_Loop.Title_Loop will be modified from 40 to 40.
+[2022.10.23-13.41.14:843][927]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29767500 while cooking SoundWave /Game/Audio/Music/Title_Loop.Title_Loop.
+[2022.10.23-13.41.14:852][927]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Music/Title_Loop.Title_Loop: 262144
+[2022.10.23-13.41.14:876][927]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Nenmar\Pictures\Title_Intro.wav)
+[2022.10.23-13.41.14:879][927]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Title_Intro...
+[2022.10.23-13.41.14:880][927]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Music/Title_Intro.Title_Intro will be modified from 40 to 40.
+[2022.10.23-13.41.14:911][927]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 496124 while cooking SoundWave /Game/Audio/Music/Title_Intro.Title_Intro.
+[2022.10.23-13.41.14:911][927]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Music/Title_Intro.Title_Intro: 262144
+[2022.10.23-13.41.14:913][927]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2022.10.23-13.41.19:833][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.23-13.41.21:337][175]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.23-13.41.21:400][175]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Audio/Music/SC_MenuMusic.SC_MenuMusic
+	Asset Type: SoundCue
+[2022.10.23-13.41.21:771][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.23-13.41.21:810][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.23-13.41.21:847][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.23-13.41.25:670][384]LogSavePackage: Moving output files for package: /Game/Audio/Music/Title_Intro
+[2022.10.23-13.41.25:670][384]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Title_Intro7E39944345B395FF4F57169F69203582.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/Title_Intro.uasset'
+[2022.10.23-13.41.25:695][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music/Title_Loop" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/Title_Loop.uasset" SILENT=true
+[2022.10.23-13.41.25:827][384]LogSavePackage: Moving output files for package: /Game/Audio/Music/Title_Loop
+[2022.10.23-13.41.25:827][384]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Title_LoopCF8DA90343C1E3687D5D47815A2B3ED9.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/Title_Loop.uasset'
+[2022.10.23-13.41.25:845][384]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.23-13.41.25:845][384]LogContentValidation: Display: Validating SoundWave /Game/Audio/Music/Title_Intro.Title_Intro
+[2022.10.23-13.41.25:845][384]LogContentValidation: Display: Validating SoundWave /Game/Audio/Music/Title_Loop.Title_Loop
+[2022.10.23-13.41.30:271][604]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2022.10.23-13.41.30:281][604]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2022.10.23-13.41.30:294][605]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2022.10.23-13.41.37:879][ 52]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> TitleSoundtrack
+[2022.10.23-13.41.37:881][ 52]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2022.10.23-13.41.39:303][129]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/Music/TitleSoundtrack.TitleSoundtrack
+[2022.10.23-13.42.21:070][617]LogSavePackage: Moving output files for package: /Game/Audio/Music/TitleSoundtrack
+[2022.10.23-13.42.21:070][617]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/TitleSoundtrack3C41212B4B0B19DBC2676AA935EB4721.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/TitleSoundtrack.uasset'
+[2022.10.23-13.42.21:086][617]AssetCheck: New page: Asset Save: TitleSoundtrack
+[2022.10.23-13.42.21:086][617]LogContentValidation: Display: Validating MetaSoundSource /Game/Audio/Music/TitleSoundtrack.TitleSoundtrack
+[2022.10.23-13.42.43:806][964]LogSavePackage: Moving output files for package: /Game/Audio/Music/TitleSoundtrack
+[2022.10.23-13.42.43:807][964]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/TitleSoundtrack1502B7F642C4724D59ABAF992A1D8078.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/TitleSoundtrack.uasset'
+[2022.10.23-13.42.43:823][964]AssetCheck: New page: Asset Save: TitleSoundtrack
+[2022.10.23-13.42.43:823][964]LogContentValidation: Display: Validating MetaSoundSource /Game/Audio/Music/TitleSoundtrack.TitleSoundtrack
+[2022.10.23-13.42.56:857][743]LogSavePackage: Moving output files for package: /Game/Audio/Music/TitleSoundtrack
+[2022.10.23-13.42.56:859][743]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/TitleSoundtrack9131E2234199E4E095D9BEA46D5AB139.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/Music/TitleSoundtrack.uasset'
+[2022.10.23-13.42.56:874][743]AssetCheck: New page: Asset Save: TitleSoundtrack
+[2022.10.23-13.42.56:874][743]LogContentValidation: Display: Validating MetaSoundSource /Game/Audio/Music/TitleSoundtrack.TitleSoundtrack
+[2022.10.23-13.43.13:704][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.23-13.43.15:355][702]LogSlate: Window 'Save Content' being destroyed
+[2022.10.23-13.43.15:433][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/StoneMove" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/StoneMove.uasset" SILENT=true
+[2022.10.23-13.43.15:435][702]LogSavePackage: Moving output files for package: /Game/Audio/SFX/StoneMove
+[2022.10.23-13.43.15:435][702]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StoneMove42B47C42416523521DB2C0B57B9C1D46.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/StoneMove.uasset'
+[2022.10.23-13.43.15:705][702]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.23-13.43.15:705][702]Cmd: MAP LOAD FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.23-13.43.15:705][702]LightingResults: New page: Lighting Build
+[2022.10.23-13.43.15:706][702]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/logo.logo (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/exitButton.exitButton (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/creditsButton.creditsButton (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/backButton.backButton (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/playButton.playButton (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/highScoresButton.highScoresButton (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:756][702]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.43.15:756][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.43.15:860][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/ButtonPictures/titleScreen.titleScreen (TFO_AutoDXT, 1920X1080 X1X1) (Required Memory Estimate: 39.550781 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:861][702]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.43.15:861][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.43.15:862][702]MapCheck: New page: Map Check
+[2022.10.23-13.43.15:862][702]LightingResults: New page: Lighting Build
+[2022.10.23-13.43.15:907][702]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-13.43.15:925][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.23-13.43.15:945][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/1.1 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:945][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/2.2 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:950][702]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.43.15:951][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.43.15:999][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/3.3 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:999][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/4.4 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.15:999][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/5.5 (TFO_AutoDXT, 1080X1080 X1X1) (Required Memory Estimate: 22.247314 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.16:004][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.10.23-13.43.16:045][702]LogTexture: Display: Building textures: /Game/Levels/MainMenu/HighScorePictures/highScores.highScores (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 40.000 MB), EncodeSpeed: Fast
+[2022.10.23-13.43.16:046][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.23-13.43.16:061][702]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.10.23-13.43.16:061][702]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-13.43.16:062][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.43.16:062][702]LogAIModule: Creating AISystem for world MainMenu
+[2022.10.23-13.43.16:082][702]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.23-13.43.16:112][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.23-13.43.16:122][702]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.23-13.43.16:122][702]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2022.10.23-13.43.16:122][702]LogFileHelpers: Loading map 'MainMenu' took 0.417
+[2022.10.23-13.43.16:144][702]AssetCheck: New page: Asset Save: StoneMove
+[2022.10.23-13.43.16:145][702]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/StoneMove.StoneMove
+[2022.10.23-13.43.20:293][937]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenu/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2022.10.23-13.43.20:293][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.43.54:321][929]BlueprintLog: New page: Compile MainMenu
+[2022.10.23-13.43.54:378][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.23-13.43.55:032][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.23-13.43.55:041][963]LogSavePackage: Moving output files for package: /Game/Levels/MainMenu/MainMenu
+[2022.10.23-13.43.55:042][963]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/MainMenu8248365B4B1CEB8A2065F093232C382E.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Levels/MainMenu/MainMenu.umap'
+[2022.10.23-13.43.55:053][963]LogFileHelpers: Saving map 'MainMenu' took 0.056
+[2022.10.23-13.43.55:067][963]AssetCheck: New page: Asset Save: MainMenu
+[2022.10.23-13.43.55:067][963]LogContentValidation: Display: Validating World /Game/Levels/MainMenu/MainMenu.MainMenu
+[2022.10.23-13.43.56:987][ 82]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-13.43.56:995][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-13.43.56:995][ 82]PIE: New page: PIE session: MainMenu (Oct 23, 2022, 1:43:56 AM)
+[2022.10.23-13.43.56:995][ 82]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.10.23-13.43.56:997][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001649s)
+[2022.10.23-13.43.56:997][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.001739s)
+[2022.10.23-13.43.56:997][ 82]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-13.43.56:997][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.43.56:998][ 82]LogAIModule: Creating AISystem for world MainMenu
+[2022.10.23-13.43.56:998][ 82]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2022.10.23-13.43.57:031][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.23-13.43.57:032][ 82]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-13.43.57:032][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-13.43.57:032][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-13.43.57:033][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-13.43.57:033][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-13.43.57:033][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-13.43.57:036][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-13.43.57:077][ 82]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-13.43.57:077][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-13.43.57:077][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-13.43.57:077][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-13.43.57:078][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.10.23-13.43.57:078][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.10.23-13.43.57:080][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.10.23-13.43.57:080][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.10.23-13.43.57:080][ 82]LogInit: FAudioDevice initialized.
+[2022.10.23-13.43.57:080][ 82]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenu'.
+[2022.10.23-13.43.57:148][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-13.43.57:149][ 82]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-13.43.57:149][ 82]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.10.23-07.43.57
+[2022.10.23-13.43.57:149][ 82]LogWorld: Bringing up level for play took: 0.000495
+[2022.10.23-13.43.57:152][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.10.23-13.43.57:156][ 82]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.23-13.43.57:161][ 82]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.23-13.43.57:161][ 82]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.23-13.43.57:169][ 82]PIE: Server logged in
+[2022.10.23-13.43.57:170][ 82]PIE: Play in editor total start time 0.175 seconds.
+[2022.10.23-13.43.57:178][ 82]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.23-13.43.58:587][160]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.23-13.43.58:587][160]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.23-13.43.58:590][160]LogNet: Browse: /Game/Levels/GameMap/GameMap
+[2022.10.23-13.43.58:590][160]LogLoad: LoadMap: /Game/Levels/GameMap/GameMap
+[2022.10.23-13.43.58:590][160]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.10.23-13.43.58:591][160]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.43.58:591][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.43.58:647][160]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-13.43.58:650][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.23-13.43.58:801][160]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.23-13.43.58:839][160]LogAudio: Display: Audio Device (ID: 9) registered with world 'GameMap'.
+[2022.10.23-13.43.58:840][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.43.58:840][160]LogAIModule: Creating AISystem for world GameMap
+[2022.10.23-13.43.58:841][160]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.23-13.43.58:841][160]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.23-13.43.58:842][160]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.23-13.43.58:842][160]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.23-13.43.58:842][160]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-13.43.58:842][160]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.23-13.43.58:842][160]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.23-13.43.58:843][160]LogWorldPartition: Display: GetPartitionedActors took 61 us
+[2022.10.23-13.43.58:965][160]LogWorldPartition: Display: GenerateStreaming took 122 ms
+[2022.10.23-13.43.58:966][160]LogWorldPartition: Display: WorldPartition initialize took 125 ms
+[2022.10.23-13.43.58:966][160]LogPlayLevel: PIE: World Init took: (0.126703s)
+[2022.10.23-13.43.58:967][160]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-13.43.58:977][160]LogWorld: Bringing World /Game/Levels/GameMap/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.10.23-07.43.58
+[2022.10.23-13.43.58:977][160]LogWorld: Bringing up level for play took: 0.010382
+[2022.10.23-13.43.58:980][160]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3030.000 Y=3700.000 Z=98.212
+[2022.10.23-13.43.58:980][160]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-13.43.58:989][160]LogLoad: Took 0.398108 seconds to LoadMap(/Game/Levels/GameMap/GameMap)
+[2022.10.23-13.44.00:405][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-13.44.00:406][242]LogWorld: BeginTearingDown for /Game/Levels/GameMap/UEDPIE_0_GameMap
+[2022.10.23-13.44.00:406][242]LogSlate: Window 'PumpkinDispatcher Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.23-13.44.00:413][242]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.44.00:413][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.44.00:427][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-13.44.00:433][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.44.00:466][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.23-13.44.00:468][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.10.23-13.44.00:475][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.23-13.44.00:492][243]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.10.23-13.44.12:426][962]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-13.44.12:434][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-13.44.12:434][962]PIE: New page: PIE session: MainMenu (Oct 23, 2022, 1:44:12 AM)
+[2022.10.23-13.44.12:434][962]LogPlayLevel: Creating play world package: /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.10.23-13.44.12:436][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001668s)
+[2022.10.23-13.44.12:436][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu/MainMenu.MainMenu to /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu (0.001754s)
+[2022.10.23-13.44.12:436][962]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-13.44.12:436][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.44.12:436][962]LogAIModule: Creating AISystem for world MainMenu
+[2022.10.23-13.44.12:436][962]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.10.23-13.44.12:471][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.23-13.44.12:472][962]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-13.44.12:472][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-13.44.12:472][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-13.44.12:472][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-13.44.12:472][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-13.44.12:472][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-13.44.12:475][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-13.44.12:514][962]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-13.44.12:514][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-13.44.12:514][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-13.44.12:514][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-13.44.12:515][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.10.23-13.44.12:515][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.10.23-13.44.12:517][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.10.23-13.44.12:517][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.10.23-13.44.12:517][962]LogInit: FAudioDevice initialized.
+[2022.10.23-13.44.12:517][962]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainMenu'.
+[2022.10.23-13.44.12:587][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-13.44.12:587][962]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-13.44.12:588][962]LogWorld: Bringing World /Game/Levels/MainMenu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.10.23-07.44.12
+[2022.10.23-13.44.12:588][962]LogWorld: Bringing up level for play took: 0.000466
+[2022.10.23-13.44.12:590][962]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.10.23-13.44.12:591][962]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.23-13.44.12:595][962]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.23-13.44.12:595][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.23-13.44.12:597][962]PIE: Server logged in
+[2022.10.23-13.44.12:597][962]PIE: Play in editor total start time 0.164 seconds.
+[2022.10.23-13.44.12:614][962]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.23-13.44.13:987][ 28]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.23-13.44.13:987][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.23-13.44.13:988][ 28]LogNet: Browse: /Game/Levels/GameMap/GameMap
+[2022.10.23-13.44.13:988][ 28]LogLoad: LoadMap: /Game/Levels/GameMap/GameMap
+[2022.10.23-13.44.13:988][ 28]LogWorld: BeginTearingDown for /Game/Levels/MainMenu/UEDPIE_0_MainMenu
+[2022.10.23-13.44.13:989][ 28]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.44.13:989][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.44.14:047][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-13.44.14:050][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.23-13.44.14:065][ 28]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.23-13.44.14:080][ 28]LogAudio: Display: Audio Device (ID: 10) registered with world 'GameMap'.
+[2022.10.23-13.44.14:081][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-13.44.14:081][ 28]LogAIModule: Creating AISystem for world GameMap
+[2022.10.23-13.44.14:082][ 28]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.23-13.44.14:082][ 28]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.23-13.44.14:083][ 28]LogWorldPartition: Display: GetPartitionedActors took 52 us
+[2022.10.23-13.44.14:094][ 28]LogWorldPartition: Display: GenerateStreaming took 10 ms
+[2022.10.23-13.44.14:095][ 28]LogWorldPartition: Display: WorldPartition initialize took 13 ms
+[2022.10.23-13.44.14:095][ 28]LogPlayLevel: PIE: World Init took: (0.014513s)
+[2022.10.23-13.44.14:095][ 28]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-13.44.14:097][ 28]LogWorld: Bringing World /Game/Levels/GameMap/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2022.10.23-07.44.14
+[2022.10.23-13.44.14:097][ 28]LogWorld: Bringing up level for play took: 0.002069
+[2022.10.23-13.44.14:100][ 28]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=3030.000 Y=3700.000 Z=98.212
+[2022.10.23-13.44.14:100][ 28]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-13.44.14:101][ 28]LogLoad: Took 0.112214 seconds to LoadMap(/Game/Levels/GameMap/GameMap)
+[2022.10.23-13.44.23:016][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-13.44.23:016][562]LogWorld: BeginTearingDown for /Game/Levels/GameMap/UEDPIE_0_GameMap
+[2022.10.23-13.44.23:017][562]LogSlate: Window 'PumpkinDispatcher Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.10.23-13.44.23:025][562]LogWorld: UWorld::CleanupWorld for GameMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-13.44.23:025][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.44.23:042][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-13.44.23:048][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-13.44.23:080][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.10.23-13.44.23:082][562]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.10.23-13.44.23:091][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.23-13.44.23:108][563]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.10.23-13.45.19:383][368]LogAudioEditor: Performing atomic reimport of [H:/Nenmar/Documents/Personal Sound Effects Library/Weather/Wind and Interior Resonances - Ventilation/ForestNight.wav]
+[2022.10.23-13.45.19:402][368]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:/Nenmar/Documents/Personal Sound Effects Library/Weather/Wind and Interior Resonances - Ventilation/ForestNight.wav)
+[2022.10.23-13.45.19:431][368]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ForestNight...
+[2022.10.23-13.45.19:433][368]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/SFX/ForestNight.ForestNight will be modified from 40 to 40.
+[2022.10.23-13.45.19:949][368]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8018324 while cooking SoundWave /Game/Audio/SFX/ForestNight.ForestNight.
+[2022.10.23-13.45.19:951][368]LogAudio: Display: Chunk size for SoundWave /Game/Audio/SFX/ForestNight.ForestNight: 262144
+[2022.10.23-13.45.19:955][368]LogAudioEditor: -- imported successfully
+[2022.10.23-13.45.19:975][368]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave ForestNight...
+[2022.10.23-13.45.19:977][368]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/SFX/ForestNight.ForestNight will be modified from 40 to 40.
+[2022.10.23-13.45.20:496][368]LogAudio: Display: Chunk size for SoundWave /Game/Audio/SFX/ForestNight.ForestNight: 262144
+[2022.10.23-13.45.29:589][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/ForestNight" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/ForestNight.uasset" SILENT=true
+[2022.10.23-13.45.29:595][810]LogSavePackage: Moving output files for package: /Game/Audio/SFX/ForestNight
+[2022.10.23-13.45.29:596][810]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/ForestNightCCD591DE4DFF278B750A738F85DDFD98.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/ForestNight.uasset'
+[2022.10.23-13.45.29:616][810]AssetCheck: New page: Asset Save: ForestNight
+[2022.10.23-13.45.29:616][810]LogContentValidation: Display: Validating SoundWave /Game/Audio/SFX/ForestNight.ForestNight
+[2022.10.23-13.45.35:673][154]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.10.23-13.45.35:683][154]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.10.23-13.45.35:696][155]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2022.10.23-13.45.42:943][591]LogContentBrowser: Attempting asset rename: NewSoundCue -> NewSoundCue
+[2022.10.23-13.45.42:944][591]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.10.23-13.45.45:099][714]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-13.45.45:099][714]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-13.45.45:196][720]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-13.45.45:196][720]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.23-13.45.45:950][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.23-13.45.46:872][764]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.23-13.45.46:931][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.23-13.45.46:966][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.23-13.45.47:000][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.23-13.45.48:241][839]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SFX/SC_ForestAMB.SC_ForestAMB
+[2022.10.23-13.45.53:950][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX/SC_ForestAMB" FILE="../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/SC_ForestAMB.uasset" SILENT=true
+[2022.10.23-13.45.53:952][175]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_ForestAMB
+[2022.10.23-13.45.53:953][175]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/SC_ForestAMBB52D67CB4183F045E3A6CEB1B98E2D7F.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/SC_ForestAMB.uasset'
+[2022.10.23-13.45.53:986][175]AssetCheck: New page: Asset Save: SC_ForestAMB
+[2022.10.23-13.45.53:986][175]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_ForestAMB.SC_ForestAMB
