@@ -3196,3 +3196,91 @@ TaskGetPatrolLocation_C.ReceiveExecuteAI
 [2022.10.23-12.00.10:336][257]AssetCheck: New page: Asset Save: multiple assets
 [2022.10.23-12.00.10:336][257]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_PickupAlert.SC_PickupAlert
 [2022.10.23-12.00.10:336][257]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_Slash.SC_Slash
+[2022.10.23-12.07.25:541][514]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 H:\Nenmar\Documents\Projects\Audio\Music, Ramiro's work, and other audio business\00 SFX SFX SFX 00\Somethings\SmallFail.wav)
+[2022.10.23-12.07.25:554][514]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave SmallFail...
+[2022.10.23-12.07.25:554][514]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/SFX/SmallFail.SmallFail will be modified from 40 to 40.
+[2022.10.23-12.07.25:581][514]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 452024 while cooking SoundWave /Game/Audio/SFX/SmallFail.SmallFail.
+[2022.10.23-12.07.25:581][514]LogAudio: Display: Chunk size for SoundWave /Game/Audio/SFX/SmallFail.SmallFail: 262144
+[2022.10.23-12.07.25:586][514]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2022.10.23-12.07.43:937][504]LogContentBrowser: Attempting asset rename: SC_PickupAlert_2 -> SC_DepositAlert
+[2022.10.23-12.07.44:026][504]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_DepositAlert
+[2022.10.23-12.07.44:026][504]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/SC_DepositAlertD403864445299E5891A721AD6B9190D3.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/SC_DepositAlert.uasset'
+[2022.10.23-12.07.44:139][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.23-12.07.44:204][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.23-12.07.44:266][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.23-12.07.44:275][504]AssetCheck: New page: Asset Save: SC_DepositAlert
+[2022.10.23-12.07.44:275][504]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_DepositAlert.SC_DepositAlert
+[2022.10.23-12.07.46:181][616]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SFX/SC_DepositAlert.SC_DepositAlert
+[2022.10.23-12.07.51:089][899]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_DepositAlert
+[2022.10.23-12.07.51:091][899]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/SC_DepositAlertC6B6E03E43831F54D245DE9437C9EEED.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/SC_DepositAlert.uasset'
+[2022.10.23-12.07.51:125][899]AssetCheck: New page: Asset Save: SC_DepositAlert
+[2022.10.23-12.07.51:125][899]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_DepositAlert.SC_DepositAlert
+[2022.10.23-12.08.00:359][451]LogSavePackage: Moving output files for package: /Game/Audio/SFX/SC_DepositAlert
+[2022.10.23-12.08.00:361][451]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/SC_DepositAlert72AF240843A5A1990ADC71B08C375091.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/Audio/SFX/SC_DepositAlert.uasset'
+[2022.10.23-12.08.00:393][451]AssetCheck: New page: Asset Save: SC_DepositAlert
+[2022.10.23-12.08.00:393][451]LogContentValidation: Display: Validating SoundCue /Game/Audio/SFX/SC_DepositAlert.SC_DepositAlert
+[2022.10.23-12.08.07:665][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameObjects/Pumpkin/EscapeGate.EscapeGate
+[2022.10.23-12.08.07:666][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-12.08.40:485][800]BlueprintLog: New page: Compile EscapeGate
+[2022.10.23-12.08.40:591][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.10.23-12.08.40:705][801]LogNavigationDataBuild: Navigation data generation finished in /Game/Levels/LevelPrototyping/PumpkinTesting.
+[2022.10.23-12.08.41:173][823]LogSavePackage: Moving output files for package: /Game/GameObjects/Pumpkin/EscapeGate
+[2022.10.23-12.08.41:175][823]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/EscapeGate73D8C9FD40C9E0890D453A8F1C904C22.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/GameObjects/Pumpkin/EscapeGate.uasset'
+[2022.10.23-12.08.41:193][823]AssetCheck: New page: Asset Save: EscapeGate
+[2022.10.23-12.08.41:193][823]LogContentValidation: Display: Validating Blueprint /Game/GameObjects/Pumpkin/EscapeGate.EscapeGate
+[2022.10.23-12.08.44:096][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-12.08.44:105][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-12.08.44:106][987]PIE: New page: PIE session: PumpkinTesting (Oct 23, 2022, 12:08:44 AM)
+[2022.10.23-12.08.44:106][987]LogPlayLevel: Creating play world package: /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.23-12.08.44:137][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030850s)
+[2022.10.23-12.08.44:137][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelPrototyping/PumpkinTesting.PumpkinTesting to /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting (0.030958s)
+[2022.10.23-12.08.44:137][987]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-12.08.44:137][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-12.08.44:137][987]LogAIModule: Creating AISystem for world PumpkinTesting
+[2022.10.23-12.08.44:138][987]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2022.10.23-12.08.44:206][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.10.23-12.08.44:207][987]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.10.23-12.08.44:207][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-12.08.44:208][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-12.08.44:208][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-12.08.44:208][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-12.08.44:208][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-12.08.44:208][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-12.08.44:211][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-12.08.44:250][987]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-12.08.44:250][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-12.08.44:250][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-12.08.44:250][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-12.08.44:251][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.10.23-12.08.44:251][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.10.23-12.08.44:253][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.10.23-12.08.44:253][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.10.23-12.08.44:253][987]LogInit: FAudioDevice initialized.
+[2022.10.23-12.08.44:253][987]LogAudio: Display: Audio Device (ID: 36) registered with world 'PumpkinTesting'.
+[2022.10.23-12.08.44:268][987]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-12.08.44:284][987]LogWorld: Bringing World /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting.PumpkinTesting up for play (max tick rate 0) at 2022.10.23-06.08.44
+[2022.10.23-12.08.44:287][987]LogWorld: Bringing up level for play took: 0.019324
+[2022.10.23-12.08.44:289][987]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2022.10.23-12.08.44:295][987]PIE: Server logged in
+[2022.10.23-12.08.44:296][987]PIE: Play in editor total start time 0.19 seconds.
+[2022.10.23-12.08.50:972][380]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-12.08.57:492][771]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-12.09.09:874][513]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-12.09.11:973][639]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-12.09.13:836][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-12.09.13:836][749]LogWorld: BeginTearingDown for /Game/Levels/LevelPrototyping/UEDPIE_0_PumpkinTesting
+[2022.10.23-12.09.13:836][749]LogWorld: UWorld::CleanupWorld for PumpkinTesting, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-12.09.13:838][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-12.09.13:856][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-12.09.13:865][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-12.09.13:932][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-12.09.13:934][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.23-12.09.13:936][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.23-12.09.13:940][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-12.09.13:947][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.10.23-12.09.13:993][750]LogPlayLevel: Display: Destroying online subsystem :Context_57
