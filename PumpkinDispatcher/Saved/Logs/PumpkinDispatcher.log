@@ -13058,3 +13058,405 @@ Recommended: 516.25
 [2022.10.23-06.54.08:195][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2022.10.23-06.54.08:207][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
 [2022.10.23-06.54.08:255][921]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.10.23-06.54.31:447][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.23-06.54.31:457][182]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.10.23-06.54.31:458][182]LogWorldPartition: Display: GenerateStreaming took 533 us
+[2022.10.23-06.54.31:458][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-06.54.31:458][182]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2022, 6:54:31 PM)
+[2022.10.23-06.54.31:458][182]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.10.23-06.54.31:468][182]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.23-06.54.31:468][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009745s)
+[2022.10.23-06.54.31:468][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009813s)
+[2022.10.23-06.54.31:468][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-06.54.31:469][182]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.10.23-06.54.31:469][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.23-06.54.31:469][182]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.23-06.54.31:472][182]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.23-06.54.31:472][182]LogPlayLevel: PIE: World Init took: (0.004011s)
+[2022.10.23-06.54.31:560][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.10.23-06.54.31:562][182]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-06.54.31:562][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-06.54.31:562][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-06.54.31:563][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-06.54.31:563][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-06.54.31:563][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-06.54.31:566][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-06.54.31:605][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-06.54.31:605][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-06.54.31:605][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-06.54.31:605][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-06.54.31:606][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.10.23-06.54.31:606][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.10.23-06.54.31:608][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.10.23-06.54.31:608][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.10.23-06.54.31:608][182]LogInit: FAudioDevice initialized.
+[2022.10.23-06.54.31:608][182]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2022.10.23-06.54.31:624][182]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-06.54.31:632][182]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.10.23-00.54.31
+[2022.10.23-06.54.31:635][182]LogWorld: Bringing up level for play took: 0.009891
+[2022.10.23-06.54.31:637][182]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2022.10.23-06.54.31:640][182]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.10.23-06.54.31:640][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-06.54.31:640][182]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.54.31:641][182]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 5000.0
+[2022.10.23-06.54.31:641][182]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.54.31:641][182]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 1000.0
+[2022.10.23-06.54.31:643][182]PIE: Server logged in
+[2022.10.23-06.54.31:644][182]PIE: Play in editor total start time 0.189 seconds.
+[2022.10.23-06.54.31:675][182]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:697][183]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:757][184]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:791][185]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:807][186]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:821][187]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:835][188]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:852][189]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:864][190]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:878][191]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:891][192]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:906][193]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:918][194]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:932][195]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:946][196]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:962][197]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:982][198]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.31:995][199]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:012][200]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:029][201]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:045][202]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:062][203]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:082][204]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:098][205]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:115][206]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:133][207]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:149][208]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:166][209]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:182][210]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:197][211]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:214][212]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:231][213]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:248][214]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:264][215]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:282][216]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:297][217]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:314][218]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:331][219]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:347][220]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:364][221]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:381][222]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:396][223]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:414][224]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:430][225]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:448][226]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:464][227]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:481][228]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:498][229]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:514][230]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:530][231]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:546][232]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:564][233]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:581][234]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:597][235]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:614][236]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:632][237]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:648][238]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:665][239]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:682][240]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:697][241]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:713][242]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:729][243]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:748][244]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:764][245]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:781][246]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:796][247]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:813][248]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:830][249]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:847][250]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:863][251]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:880][252]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:896][253]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:913][254]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:930][255]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:947][256]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:963][257]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:981][258]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.32:997][259]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:013][260]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:029][261]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:046][262]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:063][263]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:080][264]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:096][265]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:112][266]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:130][267]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:147][268]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:163][269]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:180][270]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:197][271]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:214][272]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:230][273]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:246][274]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:263][275]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.18346
+[2022.10.23-06.54.33:279][276]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.167108
+[2022.10.23-06.54.33:296][277]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.150333
+[2022.10.23-06.54.33:313][278]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.133645
+[2022.10.23-06.54.33:329][279]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.116937
+[2022.10.23-06.54.33:346][280]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.10022
+[2022.10.23-06.54.33:363][281]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.08338
+[2022.10.23-06.54.33:380][282]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.066592
+[2022.10.23-06.54.33:396][283]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.049842
+[2022.10.23-06.54.33:413][284]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.032965
+[2022.10.23-06.54.33:431][285]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.015937
+[2022.10.23-06.54.33:442][286]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.54.33:442][286]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 25000.0
+[2022.10.23-06.54.33:442][286]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.54.33:442][286]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 5000.0
+[2022.10.23-06.54.33:448][286]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:465][287]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:481][288]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:492][289]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-06.54.33:498][289]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:514][290]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:534][291]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:550][292]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:567][293]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:583][294]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:600][295]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:616][296]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:631][297]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:650][298]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:665][299]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:682][300]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:698][301]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:714][302]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:730][303]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:746][304]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:764][305]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:780][306]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:796][307]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:813][308]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:830][309]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:847][310]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:864][311]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:880][312]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:896][313]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:914][314]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:931][315]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:949][316]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:965][317]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:981][318]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.33:997][319]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:014][320]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:031][321]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:048][322]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:064][323]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:080][324]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:097][325]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:115][326]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:131][327]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:147][328]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:166][329]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:180][330]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:197][331]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:213][332]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:229][333]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:246][334]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:263][335]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:282][336]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:297][337]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:315][338]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:332][339]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:349][340]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:365][341]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:381][342]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:397][343]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:414][344]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:430][345]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:447][346]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:464][347]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:480][348]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:496][349]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:514][350]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:530][351]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:547][352]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:563][353]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:581][354]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:597][355]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:614][356]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:633][357]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:649][358]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:666][359]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:683][360]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:698][361]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:714][362]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:731][363]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:748][364]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:763][365]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:780][366]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:797][367]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:814][368]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:830][369]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:847][370]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:863][371]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:879][372]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:896][373]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:914][374]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:931][375]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:948][376]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:965][377]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:981][378]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.34:997][379]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:014][380]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:032][381]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:047][382]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:063][383]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:080][384]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:097][385]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:114][386]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:130][387]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:147][388]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:164][389]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:181][390]LogBlueprintUserMessages: [StackedBarWidget] Bottom: 0.0
+[2022.10.23-06.54.35:216][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-06.54.35:216][391]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.10.23-06.54.35:217][391]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-06.54.35:218][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-06.54.35:239][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-06.54.35:250][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-06.54.35:342][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-06.54.35:342][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.10.23-06.54.35:344][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.10.23-06.54.35:355][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.10.23-06.54.35:414][392]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.10.23-06.54.39:353][617]LogSavePackage: Moving output files for package: /Game/UI/Widgets/Pumpkin_Widget
+[2022.10.23-06.54.39:355][617]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/Pumpkin_Widget2AB4C1C841CE0167CF731BB527EC36A1.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/Pumpkin_Widget.uasset'
+[2022.10.23-06.54.39:379][617]AssetCheck: New page: Asset Save: Pumpkin_Widget
+[2022.10.23-06.54.39:380][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/Pumpkin_Widget.Pumpkin_Widget
+[2022.10.23-06.55.03:338][ 35]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/Vial_Widget.Vial_Widget
+[2022.10.23-06.55.03:339][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-06.55.03:365][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-06.55.03:809][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.23-06.55.03:809][ 35]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.23-06.55.20:672][ 42]BlueprintLog: New page: Compile StackedBarWidget
+[2022.10.23-06.55.20:831][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.10.23-06.55.21:445][ 63]LogSavePackage: Moving output files for package: /Game/UI/Widgets/StackedBarWidget
+[2022.10.23-06.55.21:446][ 63]LogSavePackage: Moving '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Saved/StackedBarWidget1105886C45D6CDEFF5C9D2B5F39FB361.tmp' to '../../../../../../Nenmar/Documents/Projects/Code/GitHub/GrindsetGames/PumpkinDispatcher/Content/UI/Widgets/StackedBarWidget.uasset'
+[2022.10.23-06.55.21:466][ 63]AssetCheck: New page: Asset Save: StackedBarWidget
+[2022.10.23-06.55.21:466][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Widgets/StackedBarWidget.StackedBarWidget
+[2022.10.23-06.55.23:405][162]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.23-06.55.23:415][162]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Display: GetPartitionedActors took 68 us
+[2022.10.23-06.55.23:416][162]LogWorldPartition: Display: GenerateStreaming took 563 us
+[2022.10.23-06.55.23:416][162]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.23-06.55.23:416][162]PIE: New page: PIE session: FirstPersonMap (Oct 22, 2022, 6:55:23 PM)
+[2022.10.23-06.55.23:417][162]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.10.23-06.55.23:426][162]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.23-06.55.23:426][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009839s)
+[2022.10.23-06.55.23:426][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.009926s)
+[2022.10.23-06.55.23:427][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-06.55.23:427][162]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.10.23-06.55.23:428][162]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.23-06.55.23:428][162]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.23-06.55.23:430][162]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.23-06.55.23:430][162]LogPlayLevel: PIE: World Init took: (0.003897s)
+[2022.10.23-06.55.23:537][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.10.23-06.55.23:540][162]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.23-06.55.23:540][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.23-06.55.23:540][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.23-06.55.23:541][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.23-06.55.23:541][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.23-06.55.23:541][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.23-06.55.23:543][162]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.23-06.55.23:582][162]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Scarlett Solo USB)
+[2022.10.23-06.55.23:583][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.23-06.55.23:583][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.23-06.55.23:583][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.23-06.55.23:584][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.10.23-06.55.23:584][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.10.23-06.55.23:586][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.10.23-06.55.23:586][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.10.23-06.55.23:586][162]LogInit: FAudioDevice initialized.
+[2022.10.23-06.55.23:586][162]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2022.10.23-06.55.23:605][162]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.10.23-06.55.23:613][162]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.10.23-00.55.23
+[2022.10.23-06.55.23:616][162]LogWorld: Bringing up level for play took: 0.010850
+[2022.10.23-06.55.23:618][162]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.10.23-06.55.23:621][162]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.10.23-06.55.23:621][162]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.23-06.55.23:622][162]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.23:622][162]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 5000.0
+[2022.10.23-06.55.23:622][162]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.23:622][162]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 1000.0
+[2022.10.23-06.55.23:624][162]PIE: Server logged in
+[2022.10.23-06.55.23:625][162]PIE: Play in editor total start time 0.211 seconds.
+[2022.10.23-06.55.25:392][262]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.25:392][262]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 25000.0
+[2022.10.23-06.55.25:392][262]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.25:392][262]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 5000.0
+[2022.10.23-06.55.25:466][266]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-06.55.27:403][380]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.27:403][380]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 25000.0
+[2022.10.23-06.55.27:403][380]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.27:403][380]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 5000.0
+[2022.10.23-06.55.27:527][387]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-06.55.29:412][499]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.29:412][499]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 57500.0
+[2022.10.23-06.55.29:412][499]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.29:412][499]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 11500.0
+[2022.10.23-06.55.29:595][510]LogBlueprintUserMessages: [TaskGetPatrolLocation_C_0] AI Finding path
+[2022.10.23-06.55.31:425][620]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.31:425][620]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 75000.0
+[2022.10.23-06.55.31:425][620]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.31:425][620]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 15000.0
+[2022.10.23-06.55.33:443][741]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.33:443][741]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 75000.0
+[2022.10.23-06.55.33:443][741]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.33:443][741]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 15000.0
+[2022.10.23-06.55.35:442][861]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.35:442][861]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 75000.0
+[2022.10.23-06.55.35:442][861]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.35:443][861]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 15000.0
+[2022.10.23-06.55.37:460][981]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.37:460][981]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 75000.0
+[2022.10.23-06.55.37:461][981]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.37:461][981]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 15000.0
+[2022.10.23-06.55.39:458][102]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.39:458][102]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 75000.0
+[2022.10.23-06.55.39:458][102]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.39:458][102]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 15000.0
+[2022.10.23-06.55.41:460][222]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Intensity:
+[2022.10.23-06.55.41:460][222]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 72000.0
+[2022.10.23-06.55.41:460][222]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] Radius:
+[2022.10.23-06.55.41:460][222]LogBlueprintUserMessages: [NewBlueprint_C_UAID_D89EF38FDB17234201_1768505015] 14400.0
+[2022.10.23-06.55.42:065][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-06.55.42:066][256]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.10.23-06.55.42:066][256]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-06.55.42:067][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-06.55.42:082][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.23-06.55.42:093][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-06.55.42:192][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.23-06.55.42:193][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.23-06.55.42:194][256]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.23-06.55.42:206][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.10.23-06.55.42:264][257]LogPlayLevel: Display: Destroying online subsystem :Context_42
